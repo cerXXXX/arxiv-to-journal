@@ -164,10 +164,19 @@ def publication_date(m, inspire):
         exact = sorted(x['date'] for x in inspire.get('imprints', []) if len(x.get('date', '')) == 10)
         if exact:
             return list(map(int, exact[0].split('-'))), 'inspire:original_publisher_imprint'
+    doi = m.get('DOI', '').lower()
+    direct_path = ROOT / 'data/raw/publisher_dates/acta_54_6-A2.json'
+    if doi == '10.5506/aphyspolb.54.6-a2' and direct_path.exists():
+        evidence = json_read(direct_path)
+        if (evidence.get('doi') == doi and evidence.get('article_ref') == '6-A2'
+                and evidence.get('status') == 200
+                and 'aid=6-A2' in evidence.get('source_url', '')
+                and re.fullmatch(r'[0-9a-f]{64}', evidence.get('sha256', ''))
+                and re.fullmatch(r'\d{4}-\d{2}-\d{2}', evidence.get('date', ''))):
+            return list(map(int, evidence['date'].split('-'))), 'publisher:explicit_online_date'
     # The Acta page labels the online date explicitly and separates articles
     # with horizontal rules. Only the block containing this DOI is eligible.
     for requested_url, block in publisher_blocks():
-        doi = m.get('DOI', '').lower()
         if doi and doi in requested_url and doi in block.lower():
             hit = re.search(r'published online\s+(\d{4}-\d{2}-\d{2})', block, re.I)
             if hit:

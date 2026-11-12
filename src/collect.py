@@ -1,7 +1,9 @@
 """Network acquisition; the default analysis never imports this module."""
 import concurrent.futures
 import hashlib
+from html.parser import HTMLParser
 import json
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -15,6 +17,7 @@ RAW = ROOT / 'data/raw'
 NS = {'a': 'http://www.w3.org/2005/Atom', 'x': 'http://arxiv.org/schemas/atom',
       'o': 'http://a9.com/-/spec/opensearch/1.1/'}
 FIELDS = 'titles,authors,dois,publication_info,arxiv_eprints,document_type,preprint_date,imprints,abstracts,urls'
+ACTA_DOI = '10.5506/aphyspolb.54.6-a2'
 
 
 def fetch(relative, url, attempts=5):
@@ -81,6 +84,63 @@ def inspire_one(p):
 def crossref_one(doi):
     return fetch('crossref/doi_' + hashlib.sha256(doi.lower().encode()).hexdigest()[:20] + '.json',
                  'https://api.crossref.org/works/' + urllib.parse.quote(doi, safe=''))
+
+
+class ParagraphParser(HTMLParser):
+    """Extract publisher paragraphs without a browser or remote rendering service."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.paragraphs = []
+        self.current = None
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'p':
+            self.current = []
+
+    def handle_endtag(self, tag):
+        if tag == 'p' and self.current is not None:
+            value = ' '.join(' '.join(self.current).split())
+            if value:
+                self.paragraphs.append(value)
+            self.current = None
+
+    def handle_data(self, data):
+        if self.current is not None:
+            self.current.append(data)
+
+
+def acta_publication_date():
+    """Fetch and validate the exact Acta date absent from Crossref/INSPIRE."""
+    path = RAW / ('crossref/doi_' + hashlib.sha256(ACTA_DOI.encode()).hexdigest()[:20] + '.json')
+    message = json.loads(path.read_text(encoding='utf-8'))['message']
+    if message.get('DOI', '').lower() != ACTA_DOI:
+        raise ValueError('Unexpected Crossref DOI for Acta date lookup')
+    url = message.get('resource', {}).get('primary', {}).get('URL')
+    if not url:
+        raise ValueError('Crossref record has no primary publisher URL')
+    body = fetch('publisher/acta_54_6-A2.html', url)
+    text = body.decode('utf-8', errors='replace')
+    parser = ParagraphParser()
+    parser.feed(text)
+    doi_confirmed = ACTA_DOI in text.lower()
+    article_ref = urllib.parse.parse_qs(urllib.parse.urlparse(url).query).get('aid', [''])[0]
+    if not doi_confirmed or article_ref != '6-A2':
+        raise ValueError('Acta primary page does not confirm DOI and article identifier')
+    matches = [re.search(r'\barticle\s+6-A2\b.*?published online\s+(\d{4}-\d{2}-\d{2})', p, re.I)
+               for p in parser.paragraphs]
+    dates = sorted({m.group(1) for m in matches if m})
+    if len(dates) != 1:
+        raise ValueError(f'Expected one explicit date for Acta article 6-A2, found {dates}')
+    meta = json.loads((RAW / 'publisher/acta_54_6-A2.html.meta.json').read_text(encoding='utf-8'))
+    result = {'doi': ACTA_DOI, 'article_ref': article_ref, 'date': dates[0],
+              'source_url': meta['url'],
+              'status': meta['status'], 'sha256': meta['sha256'],
+              'retrieved_utc': meta['retrieved_utc'],
+              'evidence': 'publisher HTML paragraph naming article 6-A2 and explicit published online date'}
+    result_path = RAW / 'publisher_dates/acta_54_6-A2.json'
+    result_path.parent.mkdir(parents=True, exist_ok=True)
+    result_path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    return result
 
 
 def search_one(p):

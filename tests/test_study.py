@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 import re
 import sys
+import tempfile
 import unittest
 from unittest.mock import patch
 
@@ -93,6 +94,23 @@ class Dates(unittest.TestCase):
         blocks=[('https://doi.org/10.1234/other','published online 2021-01-01; references: 10.1234/cited')]
         with patch.object(p,'publisher_blocks',return_value=blocks):
             self.assertEqual(p.publication_date(article,{})[0],[2022,2,2])
+
+    def test_direct_acta_evidence_and_year_only_fallback(self):
+        article={'DOI':'10.5506/aphyspolb.54.6-a2',
+                 'published-online':{'date-parts':[[2023]]}}
+        with tempfile.TemporaryDirectory() as directory, patch.object(p,'ROOT',Path(directory)):
+            evidence=Path(directory)/'data/raw/publisher_dates/acta_54_6-A2.json'
+            evidence.parent.mkdir(parents=True)
+            evidence.write_text(json.dumps({'doi':article['DOI'],'article_ref':'6-A2',
+                'date':'2023-07-11','status':200,
+                'source_url':'https://publisher.example/findarticle?aid=6-A2',
+                'sha256':'a'*64}),encoding='utf-8')
+            date_parts,source=p.publication_date(article,{})
+            self.assertEqual((date_parts,source),([2023,7,11],'publisher:explicit_online_date'))
+            evidence.unlink()
+            with patch.object(p,'publisher_blocks',return_value=[]):
+                date_parts,source=p.publication_date(article,{})
+            self.assertEqual((date_parts,source),([2023],'crossref:published-online'))
 
 
 class FrozenStudy(unittest.TestCase):

@@ -3,44 +3,14 @@ import argparse
 from datetime import datetime, timezone
 import hashlib
 import json
-import os
 from pathlib import Path
 import shutil
-import urllib.error
 import urllib.parse
-import urllib.request
 
 import collect
 import pipeline
 
 SOURCE = Path(__file__).resolve().parents[1]
-
-
-def page_fetch(task):
-    label, url, destination = task
-    path = destination/'data/raw/pages'/f'{label}.json'
-    meta_path = path.with_suffix('.json.meta.json')
-    if path.exists() and meta_path.exists():
-        return json.loads(meta_path.read_text())['status'] == 200
-    base = os.environ.get('CRAWL4AI_URL','http://asgard.local:11235').removesuffix('/mcp/sse').removesuffix('/mcp').rstrip('/')
-    headers={'Content-Type':'application/json'}
-    if os.environ.get('CRAWL4AI_TOKEN'):
-        headers['Authorization']='Bearer '+os.environ['CRAWL4AI_TOKEN']
-    req=urllib.request.Request(base+'/md',data=json.dumps({'url':url,'f':'raw'}).encode(),headers=headers)
-    local=urllib.parse.urlparse(base).hostname in ['asgard.local','localhost','127.0.0.1']
-    opener=urllib.request.build_opener(urllib.request.ProxyHandler({})) if local else urllib.request.build_opener()
-    try:
-        with opener.open(req,timeout=100) as response:
-            body,status=response.read(),response.status
-    except urllib.error.HTTPError as e:
-        body,status=e.read(),e.code
-    except (OSError,TimeoutError) as e:
-        body,status=json.dumps({'success':False,'error':str(e)}).encode(),0
-    path.parent.mkdir(parents=True,exist_ok=True)
-    path.write_bytes(body)
-    meta_path.write_text(json.dumps({'url':url,'service':'crawl4ai/md','status':status,
-       'retrieved_utc':datetime.now(timezone.utc).isoformat(),'sha256':hashlib.sha256(body).hexdigest()},indent=2)+'\n')
-    return status==200
 
 
 def refresh(destination):
@@ -82,17 +52,6 @@ def refresh(destination):
     a=collect.RAW/'sjr/sjr_2025.csv';b=collect.RAW/'sjr/sjr_mirror.csv'
     if a.read_bytes()!=b.read_bytes() or b'Total Docs. (2025)' not in a.read_bytes().splitlines()[0]:
         raise RuntimeError('SJR mirror mismatch or wrong metric year; snapshot retained for inspection')
-    # Re-fetch the documented page URLs. A failed page stays an explicit failed
-    # response; it never substitutes for an API metadata record.
-    page_tasks=[]
-    for meta in sorted((SOURCE/'data/raw/pages').glob('*.json.meta.json')):
-        info=json.loads(meta.read_text())
-        page_tasks.append((meta.name.removesuffix('.json.meta.json'),info['url'],destination))
-    import concurrent.futures
-    with concurrent.futures.ThreadPoolExecutor(3) as executor:
-        page_status=list(executor.map(page_fetch,page_tasks))
-    pipeline.publisher_blocks.cache_clear()
-    pipeline.referee_flags.cache_clear()
     crossref=pipeline.crossref_records()
     unmatched=[p for p in sample if pipeline.match(p,crossref)[0] is None]
     collect.run_parallel(collect.search_one,unmatched,workers=3)
@@ -105,11 +64,12 @@ def refresh(destination):
             if doi and work.get('type') in ['article','review']:
                 extra.add(doi)
     collect.run_parallel(collect.crossref_one,sorted(extra))
+    direct_date = collect.acta_publication_date()
     pipeline.run(destination/'results')
     now=datetime.now(timezone.utc).isoformat()
     summary={'completed_utc':now,'cutoff':pipeline.CUTOFF.isoformat(),'sample_n':len(sample),
-             'searched_unmatched_n':len(unmatched),'page_requests_n':len(page_tasks),
-             'page_http_failures_n':sum(not ok for ok in page_status),
+             'searched_unmatched_n':len(unmatched),'direct_publisher_date_n':1,
+             'direct_publisher_date':direct_date['date'],
              'status':'core_api_snapshot_complete','gold_validation':'Not transferred: the frozen gold is dated and snapshot-specific.'}
     pipeline.json_write(destination/'snapshot.json',summary)
     files=sorted(p for p in (destination/'data').rglob('*') if p.is_file())
