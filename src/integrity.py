@@ -11,12 +11,14 @@ def digest(path):
 
 
 def inputs():
-    return sorted(p for folder in ['data/raw', 'data/reference', 'data/review', 'vendor']
+    return sorted(p for folder in ['data/raw', 'data/reference', 'data/review']
                   for p in (ROOT / folder).rglob('*') if p.is_file())
 
 
 def result_paths():
-    return sorted(p for p in (ROOT/'results').rglob('*') if p.is_file())
+    paths = [p for p in (ROOT/'results').rglob('*') if p.is_file() and 'checksums' not in p.relative_to(ROOT/'results').parts]
+    paths.extend(ROOT/name for name in ['report.pdf', 'presentation.pdf', 'preprints.csv'] if (ROOT/name).is_file())
+    return sorted(paths)
 
 
 def write_manifest(manifest, paths):
@@ -38,12 +40,12 @@ def verify(manifest, paths):
 if __name__ == '__main__':
     action = sys.argv[1]
     if action == 'freeze-inputs':
-        write_manifest(ROOT/'INPUTS.sha256', inputs())
+        write_manifest(ROOT/'results/checksums/INPUTS.sha256', inputs())
     elif action == 'freeze-results':
-        write_manifest(ROOT/'EXPECTED_RESULTS.sha256', result_paths())
+        write_manifest(ROOT/'results/checksums/EXPECTED_RESULTS.sha256', result_paths())
     elif action == 'verify':
-        verify(ROOT/'INPUTS.sha256', inputs())
+        verify(ROOT/'results/checksums/INPUTS.sha256', inputs())
     elif action == 'results':
-        verify(ROOT/'EXPECTED_RESULTS.sha256', result_paths())
+        verify(ROOT/'results/checksums/EXPECTED_RESULTS.sha256', result_paths())
     else:
         raise SystemExit('Unknown integrity action')

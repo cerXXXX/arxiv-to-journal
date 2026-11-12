@@ -1,8 +1,0 @@
-* text=auto
-*.py text eol=lf
-*.md text eol=lf
-*.sha256 text eol=lf
-*.pdf binary
-*.pptx binary
-*.whl binary
-*.ttf binary

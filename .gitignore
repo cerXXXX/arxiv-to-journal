@@ -10,7 +10,6 @@ AGENTS.md
 .codex/
 .DS_Store
 
-# Local credentials, editor files and temporary exports
 .env
 .env.*
 !.env.example
@@ -21,5 +20,16 @@ AGENTS.md
 .idea/
 .vscode/
 
-# Personal materials retained locally, excluded from submission
 /local_archive/
+
+# Local-only document generation sources
+requirements.lock
+src/algorithm.py
+src/bootstrap.py
+src/build.py
+src/charts.py
+src/clean_check.py
+src/presentation.py
+src/report.py
+src/report_appendix.py
+docs/slides.json
