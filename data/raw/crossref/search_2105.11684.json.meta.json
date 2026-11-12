@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works?query.bibliographic=The+Higgs-Graviton+Couplings%3A+from+Amplitudes+to+the+Action&rows=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:24.492158+00:00",
+  "sha256": "676eacbf31d8a10d62488dfbbc0da58f40f210915433c71f5698c3fa81ccb9e5",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:23 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "1",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-array",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

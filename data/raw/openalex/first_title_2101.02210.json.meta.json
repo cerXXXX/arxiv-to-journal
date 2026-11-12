@@ -1,0 +1,32 @@
+{
+  "url": "https://api.openalex.org/works?search=Higher-form+symmetries+and+%27t+Hooft+anomalies+in+non-equilibrium+systems&per-page=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:38:43.960305+00:00",
+  "sha256": "7e976c0f61646939dbe6606c99d63f3f41db72edd12a4a47068bfa99142e0db2",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:38:43 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a55ea9e35fb66656-AMS",
+    "CF-Cache-Status": "DYNAMIC",
+    "Access-Control-Allow-Origin": "*",
+    "Server": "cloudflare",
+    "Via": "2.0 heroku-router",
+    "X-RateLimit-Cost-USD": "0.001",
+    "X-RateLimit-Credits-Used": "10",
+    "X-RateLimit-Limit": "1000",
+    "X-RateLimit-Limit-USD": "0.1",
+    "X-RateLimit-Onetime-Remaining": "0",
+    "X-RateLimit-Prepaid-Remaining-USD": "0",
+    "X-RateLimit-Remaining": "820",
+    "X-RateLimit-Remaining-USD": "0.082",
+    "X-RateLimit-Reset": "12077",
+    "access-control-allow-headers": "Accept, Accept-Language, Accept-Encoding, Authorization, Content-Type, X-OpenAlex-UI, X-Impersonate-User",
+    "access-control-allow-methods": "GET, HEAD, POST, PATCH, DELETE, OPTIONS",
+    "access-control-expose-headers": "Cache-Control, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Onetime-Remaining, X-RateLimit-Credits-Used, X-RateLimit-Credits-Required, X-RateLimit-Reset, X-RateLimit-Limit-USD, X-RateLimit-Remaining-USD, X-RateLimit-Prepaid-Remaining-USD, X-RateLimit-Cost-USD, X-RateLimit-Cost-Required-USD, Retry-After, Location, Content-Disposition, X-OpenAlex-UI-Token",
+    "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+    "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=0879iSaL0C6k3ulr32QxjawaomB5iHP2eVDc4HDS%2Fn8%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1793911122\"}],\"max_age\":3600}",
+    "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=0879iSaL0C6k3ulr32QxjawaomB5iHP2eVDc4HDS%2Fn8%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1793911122\""
+  }
+}

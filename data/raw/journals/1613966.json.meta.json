@@ -1,0 +1,21 @@
+{
+  "url": "https://inspirehep.net/api/journals/1613966",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:32:21.546820+00:00",
+  "sha256": "3d113532f4308dd1b6f87e77d2633fac89587abaf08339aa22a04b6f4da2d505",
+  "headers": {
+    "server": "gunicorn/19.10.0",
+    "date": "Thu, 05 Nov 2026 20:32:21 GMT",
+    "content-type": "application/json",
+    "content-length": "1779",
+    "etag": "W/\"85\"",
+    "last-modified": "Mon, 11 Nov 2024 22:13:44 GMT",
+    "cache-control": "no-cache",
+    "vary": "Accept,Accept-Encoding,Accept-Language",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset",
+    "x-proxy-backend": "inspire-prod_hep-web_http",
+    "alt-svc": "h3=\":443\";ma=60;",
+    "connection": "close"
+  }
+}

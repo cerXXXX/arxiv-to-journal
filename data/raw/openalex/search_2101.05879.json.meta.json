@@ -1,0 +1,32 @@
+{
+  "url": "https://api.openalex.org/works?search=Concerns+about+the+replica+wormhole+derivation+of+the+island+conjecture&per-page=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:21.163697+00:00",
+  "sha256": "ef2254209bee8c388de61347ca3df12be7b025df1aa056fa9978368cfd519ac5",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:20 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a55e993c59a6970a-AMS",
+    "CF-Cache-Status": "DYNAMIC",
+    "Access-Control-Allow-Origin": "*",
+    "Server": "cloudflare",
+    "Via": "2.0 heroku-router",
+    "X-RateLimit-Cost-USD": "0.001",
+    "X-RateLimit-Credits-Used": "10",
+    "X-RateLimit-Limit": "1000",
+    "X-RateLimit-Limit-USD": "0.1",
+    "X-RateLimit-Onetime-Remaining": "0",
+    "X-RateLimit-Prepaid-Remaining-USD": "0",
+    "X-RateLimit-Remaining": "950",
+    "X-RateLimit-Remaining-USD": "0.095",
+    "X-RateLimit-Reset": "12760",
+    "access-control-allow-headers": "Accept, Accept-Language, Accept-Encoding, Authorization, Content-Type, X-OpenAlex-UI, X-Impersonate-User",
+    "access-control-allow-methods": "GET, HEAD, POST, PATCH, DELETE, OPTIONS",
+    "access-control-expose-headers": "Cache-Control, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Onetime-Remaining, X-RateLimit-Credits-Used, X-RateLimit-Credits-Required, X-RateLimit-Reset, X-RateLimit-Limit-USD, X-RateLimit-Remaining-USD, X-RateLimit-Prepaid-Remaining-USD, X-RateLimit-Cost-USD, X-RateLimit-Cost-Required-USD, Retry-After, Location, Content-Disposition, X-OpenAlex-UI-Token",
+    "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+    "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=N3fwhAA%2BhVZo8AKSeeHdjjtErDDAiter1RR6L1RhftA%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1793910440\"}],\"max_age\":3600}",
+    "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=N3fwhAA%2BhVZo8AKSeeHdjjtErDDAiter1RR6L1RhftA%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1793910440\""
+  }
+}

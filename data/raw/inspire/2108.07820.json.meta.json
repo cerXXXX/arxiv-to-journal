@@ -1,0 +1,17 @@
+{
+  "url": "https://inspirehep.net/api/literature?q=arxiv%3A2108.07820&size=5&fields=titles%2Cauthors%2Cdois%2Cpublication_info%2Carxiv_eprints%2Cdocument_type%2Cpreprint_date%2Cimprints%2Cabstracts%2Curls",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:26:31.937346+00:00",
+  "sha256": "df1b262630b0c4084b761e2a65073ecfce386c69b99a4d1f8e44e310d1b1a125",
+  "headers": {
+    "server": "gunicorn/19.10.0",
+    "date": "Thu, 05 Nov 2026 20:26:31 GMT",
+    "content-type": "application/json",
+    "content-length": "5143",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset",
+    "x-proxy-backend": "inspire-prod_hep-web_http",
+    "alt-svc": "h3=\":443\";ma=60;",
+    "connection": "close"
+  }
+}

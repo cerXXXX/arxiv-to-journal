@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works?query.bibliographic=Holomorphic+boundary+conditions+for+topological+field+theories+via+branes+in+twisted+supergravity&rows=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:30.493458+00:00",
+  "sha256": "589c2d8aa14c464a645e7c38c901f5f7561d29b5af0cad71ee99c731ea49393d",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:30 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "1",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-array",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

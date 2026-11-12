@@ -1,0 +1,10 @@
+{
+  "empty_cells": 0,
+  "gold_errors": 0,
+  "negative_forward_delays": 0,
+  "publications_before_v1": 1,
+  "rows": 200,
+  "unique_arxiv_ids": 200,
+  "unique_publication_dois": 181,
+  "unresolved_month_dates": 4
+}

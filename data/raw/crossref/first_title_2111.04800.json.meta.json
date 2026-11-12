@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works?query.bibliographic=Anomalous+changing+angular+momentum+of+geodesic+of+hairy+black+holes&rows=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:38:45.788831+00:00",
+  "sha256": "13d7f36524b4cdba1a6058669392b69fbcc441fc010aa0a0ef51a2bd28edac93",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:38:45 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "1",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-array",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

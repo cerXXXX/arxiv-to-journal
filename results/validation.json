@@ -1,0 +1,461 @@
+{
+  "cases": [
+    {
+      "arxiv_id": "2101.05879",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2101.10978",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2102.02253",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "disputed5"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2103.08231",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2104.00281",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2104.03350",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "disputed5"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2104.06587",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2104.11336",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "control_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2104.14434",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "control_difficult"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2105.01130",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "control_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2105.11374",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2105.11684",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2106.15706",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2107.01371",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "control_difficult"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2107.01954",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2107.03401",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2107.05662",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2107.09020",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2109.03271",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "disputed5"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2109.08551",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2109.10401",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2110.04303",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2110.14616",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2111.04800",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2111.05295",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "disputed5"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2111.07453",
+      "baseline_error": true,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found",
+        "disputed5"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2111.09330",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2112.05333",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "audit20",
+        "audit_initial_not_found"
+      ],
+      "predicted_published": false,
+      "status_error": false
+    },
+    {
+      "arxiv_id": "2112.15592",
+      "baseline_error": false,
+      "date_error": false,
+      "delay_error": false,
+      "doi_error": false,
+      "error": false,
+      "groups": [
+        "control_published"
+      ],
+      "predicted_published": true,
+      "status_error": false
+    }
+  ],
+  "groups": {
+    "audit20": {
+      "baseline_errors": 1,
+      "date_errors": 0,
+      "delay_errors": 0,
+      "doi_errors": 0,
+      "errors": 0,
+      "n": 20,
+      "status_errors": 0
+    },
+    "audit_initial_not_found": {
+      "baseline_errors": 1,
+      "date_errors": 0,
+      "delay_errors": 0,
+      "doi_errors": 0,
+      "errors": 0,
+      "n": 10,
+      "status_errors": 0
+    },
+    "audit_initial_published": {
+      "baseline_errors": 0,
+      "date_errors": 0,
+      "delay_errors": 0,
+      "doi_errors": 0,
+      "errors": 0,
+      "n": 10,
+      "status_errors": 0
+    },
+    "control_difficult": {
+      "baseline_errors": 0,
+      "date_errors": 0,
+      "delay_errors": 0,
+      "doi_errors": 0,
+      "errors": 0,
+      "n": 2,
+      "status_errors": 0
+    },
+    "control_published": {
+      "baseline_errors": 0,
+      "date_errors": 0,
+      "delay_errors": 0,
+      "doi_errors": 0,
+      "errors": 0,
+      "n": 3,
+      "status_errors": 0
+    },
+    "disputed5": {
+      "baseline_errors": 1,
+      "date_errors": 0,
+      "delay_errors": 0,
+      "doi_errors": 0,
+      "errors": 0,
+      "n": 5,
+      "status_errors": 0
+    }
+  },
+  "status": "evaluated",
+  "total_errors": 0,
+  "total_unique_cases": 29
+}

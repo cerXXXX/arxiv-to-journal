@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works/10.1103%2FPhysRevLett.126.211602",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:22.171472+00:00",
+  "sha256": "2c586a8ea78f8aebc46025f8d2bd78d5db50ba249346eb1283a5c4c0357c15f3",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:22 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "5",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-single",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

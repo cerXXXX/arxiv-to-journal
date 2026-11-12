@@ -1,0 +1,22 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=cat%3Ahep-th+AND+submittedDate%3A%5B202101010000+TO+202112312359%5D&start=6000&max_results=1000&sortBy=submittedDate&sortOrder=ascending",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:26:02.189070+00:00",
+  "sha256": "550e96415ba1533667392748bc13efb98e81be8ebb926d1be490e4d10b098992",
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "2134237",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "content-type": "application/atom+xml; charset=utf-8",
+    "x-cloud-trace-context": "e9703298df04f5d8cd21164672289685",
+    "server": "Google Frontend",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Thu, 05 Nov 2026 20:26:01 GMT",
+    "X-Served-By": "cache-lga-kjfk8660066-LGA, cache-lga-kjfk8660066-LGA, cache-lga-kjfk8660066-LGA, cache-rtm-ehrd2290023-RTM",
+    "X-Cache": "MISS, MISS, MISS",
+    "X-Cache-Hits": "0, 0, 0",
+    "X-Timer": "S1793910360.111349,VS0,VE1383",
+    "Strict-Transport-Security": "max-age=300"
+  }
+}

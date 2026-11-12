@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works?query.bibliographic=Non-perturbative+Aspects+of+Quantum+Field+Theories+from+Holography&rows=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:23.478539+00:00",
+  "sha256": "0c576656fc225434b0e4734e46089f70f6d10af7273061833e3f3447c7e15a54",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:23 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "1",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-array",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

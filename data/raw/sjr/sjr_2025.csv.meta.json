@@ -1,0 +1,33 @@
+{
+  "url": "https://raw.githubusercontent.com/P-M-Ferreira/ranking/189c0e9887085ada9a2af20b725b64617448830a/scimagojr%202025.csv",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:25:59.550992+00:00",
+  "sha256": "ead12360e11e9ebc2f4eb7280315540d0bfac69897f9f3b722ebe5039c43d523",
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "11248204",
+    "Cache-Control": "max-age=300",
+    "Content-Security-Policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "Content-Type": "text/plain; charset=utf-8",
+    "ETag": "\"2906acca26a3d3f86b043cc996b85f9132658f2809c363fa0d71c2168269c3da\"",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "deny",
+    "X-XSS-Protection": "1; mode=block",
+    "X-GitHub-Request-Id": "F514:22E23A:2B4CDF:2D1352:6AECE655",
+    "x-github-edge-region": "fra",
+    "Accept-Ranges": "bytes",
+    "Date": "Thu, 05 Nov 2026 20:25:58 GMT",
+    "Via": "1.1 varnish",
+    "X-Served-By": "cache-rtm-ehrd2290050-RTM",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "X-Timer": "S1793910358.937575,VS0,VE442",
+    "Vary": "Authorization,Accept-Encoding",
+    "Access-Control-Allow-Origin": "*",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "X-Fastly-Request-ID": "bc8566cf9872a8fd2246b0e253e70a814e1fc0ab",
+    "Expires": "Thu, 05 Nov 2026 20:30:58 GMT",
+    "Source-Age": "0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://inspirehep.net/api/literature?q=arxiv%3A2110.04730+OR+arxiv%3A2110.05289+OR+arxiv%3A2110.05870+OR+arxiv%3A2110.07327+OR+arxiv%3A2110.07617+OR+arxiv%3A2110.08001+OR+arxiv%3A2110.11358+OR+arxiv%3A2110.11388+OR+arxiv%3A2110.14616+OR+arxiv%3A2110.14942+OR+arxiv%3A2110.15257+OR+arxiv%3A2111.01141+OR+arxiv%3A2111.01967+OR+arxiv%3A2111.03045+OR+arxiv%3A2111.03078+OR+arxiv%3A2111.03424+OR+arxiv%3A2111.04201+OR+arxiv%3A2111.04756+OR+arxiv%3A2111.04800+OR+arxiv%3A2111.05295&size=100&fields=arxiv_eprints%2Crefereed%2Cdocument_type%2Cpublication_info",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:45:22.290046+00:00",
+  "sha256": "31efe08b01805f4a992077633517cc95263208a6ddd91927ce6f0dfdaf5cc25e",
+  "headers": {
+    "server": "gunicorn/19.10.0",
+    "date": "Thu, 05 Nov 2026 20:45:22 GMT",
+    "content-type": "application/json",
+    "content-length": "23750",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset",
+    "x-proxy-backend": "inspire-prod_hep-web_http",
+    "alt-svc": "h3=\":443\";ma=60;",
+    "connection": "close"
+  }
+}

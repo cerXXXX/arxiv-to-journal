@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="250" viewBox="0 0 700 250">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24.000" y="25.000" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" fill="#18343d" text-anchor="start">Задержка до журнальной публикации</text>
+<text x="24.000" y="45.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#546a73" text-anchor="start">176 работ с точными датами; интервалы — в днях</text>
+<line x1="45.000" y1="210.000" x2="682.000" y2="210.000" stroke="#dce5e8"/>
+<text x="37.000" y="213.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#546a73" text-anchor="end">0</text>
+<line x1="45.000" y1="175.000" x2="682.000" y2="175.000" stroke="#dce5e8"/>
+<text x="37.000" y="178.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#546a73" text-anchor="end">20</text>
+<line x1="45.000" y1="140.000" x2="682.000" y2="140.000" stroke="#dce5e8"/>
+<text x="37.000" y="143.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#546a73" text-anchor="end">40</text>
+<line x1="45.000" y1="105.000" x2="682.000" y2="105.000" stroke="#dce5e8"/>
+<text x="37.000" y="108.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#546a73" text-anchor="end">60</text>
+<line x1="45.000" y1="70.000" x2="682.000" y2="70.000" stroke="#dce5e8"/>
+<text x="37.000" y="73.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#546a73" text-anchor="end">80</text>
+<rect x="70.200" y="131.250" width="75.600" height="78.750" fill="#237d8d"/>
+<text x="108.000" y="125.250" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="middle">45</text>
+<text x="108.000" y="228.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#18343d" text-anchor="middle">0–89</text>
+<rect x="196.200" y="96.250" width="75.600" height="113.750" fill="#237d8d"/>
+<text x="234.000" y="90.250" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="middle">65</text>
+<text x="234.000" y="228.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#18343d" text-anchor="middle">90–179</text>
+<rect x="322.200" y="133.000" width="75.600" height="77.000" fill="#237d8d"/>
+<text x="360.000" y="127.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="middle">44</text>
+<text x="360.000" y="228.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#18343d" text-anchor="middle">180–364</text>
+<rect x="448.200" y="178.500" width="75.600" height="31.500" fill="#237d8d"/>
+<text x="486.000" y="172.500" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="middle">18</text>
+<text x="486.000" y="228.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#18343d" text-anchor="middle">365–729</text>
+<rect x="574.200" y="203.000" width="75.600" height="7.000" fill="#237d8d"/>
+<text x="612.000" y="197.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="middle">4</text>
+<text x="612.000" y="228.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#18343d" text-anchor="middle">730+</text>
+</svg>

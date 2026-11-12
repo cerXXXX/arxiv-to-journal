@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works/10.1016%2Fj.nuclphysb.2022.115691",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:12.822701+00:00",
+  "sha256": "f24a73d35babc70180323820924a7dd20681bf215ce03a910d8c21f15e8b8871",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:12 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "5",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-single",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

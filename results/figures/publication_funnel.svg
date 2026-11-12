@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="320" viewBox="0 0 700 320">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24.000" y="25.000" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" fill="#18343d" text-anchor="start">Отбор выборки и результаты поиска</text>
+<rect x="24.000" y="43.000" width="652.000" height="34.000" fill="#eef4f5"/>
+<text x="36.000" y="65.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#18343d" text-anchor="start">Выгрузка arXiv с hep-th, включая cross-list</text>
+<text x="664.000" y="66.000" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" fill="#18343d" text-anchor="end">7127</text>
+<text x="350.000" y="84.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#546a73" text-anchor="middle">↓</text>
+<rect x="24.000" y="86.000" width="652.000" height="34.000" fill="#eef4f5"/>
+<text x="36.000" y="108.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#18343d" text-anchor="start">Основная категория hep-th · исключены 3 357 cross-list</text>
+<text x="664.000" y="109.000" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" fill="#18343d" text-anchor="end">3770</text>
+<text x="350.000" y="127.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#546a73" text-anchor="middle">↓</text>
+<rect x="24.000" y="129.000" width="652.000" height="34.000" fill="#eef4f5"/>
+<text x="36.000" y="151.000" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#18343d" text-anchor="start">Отобраны по хешу · остальные 3 570 не изучаются</text>
+<text x="664.000" y="152.000" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" fill="#18343d" text-anchor="end">200</text>
+<text x="350.000" y="170.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#546a73" text-anchor="middle">↓</text>
+<rect x="24.000" y="178.000" width="315.000" height="46.000" fill="#dcebed"/>
+<rect x="355.000" y="178.000" width="321.000" height="46.000" fill="#f1e9dd"/>
+<text x="36.000" y="198.000" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="700" fill="#18343d" text-anchor="start">Журнальная версия: 181 / 200</text>
+<text x="36.000" y="215.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#18343d" text-anchor="start">90,5% выборки</text>
+<text x="367.000" y="198.000" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="700" fill="#18343d" text-anchor="start">Не установлена: 19 / 200</text>
+<text x="367.000" y="215.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#18343d" text-anchor="start">В том числе 2 сборника</text>
+<line x1="180.000" y1="224.000" x2="180.000" y2="242.000" stroke="#dce5e8"/>
+<line x1="180.000" y1="242.000" x2="508.000" y2="242.000" stroke="#dce5e8"/>
+<line x1="508.000" y1="242.000" x2="508.000" y2="251.000" stroke="#dce5e8"/>
+<line x1="180.000" y1="242.000" x2="180.000" y2="251.000" stroke="#dce5e8"/>
+<rect x="24.000" y="252.000" width="315.000" height="43.000" fill="#eef4f5"/>
+<rect x="355.000" y="252.000" width="321.000" height="43.000" fill="#eef4f5"/>
+<text x="36.000" y="271.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="start">Анализ задержки: 176 точных</text>
+<text x="36.000" y="287.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#18343d" text-anchor="start">4 даты до месяца + 1 выход до arXiv</text>
+<text x="367.000" y="271.000" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" fill="#18343d" text-anchor="start">Анализ квартилей: 69 Q1 / 181</text>
+<text x="367.000" y="287.000" font-family="DejaVu Sans, sans-serif" font-size="10" font-weight="400" fill="#18343d" text-anchor="start">Отдельный показатель; не следующий фильтр</text>
+</svg>

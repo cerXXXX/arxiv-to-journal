@@ -1,0 +1,4225 @@
+[
+  {
+    "arxiv_id": "2101.00882",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.046006",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.951256,
+    "title": "More realistic holographic model of color superconductivity with higher derivative corrections",
+    "title_similarity": 0.935009,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2101.01223",
+    "author_overlap": 1.0,
+    "doi": "10.5539/jmr.v13n2p1",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "The Damped Harmonic Oscillator at the Classical Limit of the Snyder-de Sitter Space",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of Mathematics Research"
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.17918/etd-483",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.431139,
+    "title": "Symmetries and relaxations in non-equilibrium thermodynamics",
+    "title_similarity": 0.574852,
+    "type": "dissertation",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.2139/ssrn.6151126",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.290423,
+    "title": "Emergent Compactification and Higher-Form Symmetries in Non-Compact Gauge Theories: Entanglement Spectra in SL(2, R) Continuous-Variable Quantum Circuits",
+    "title_similarity": 0.38723,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.1016/s0076-5392(96)80006-3",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.341827,
+    "title": "Systems and Symmetries",
+    "title_similarity": 0.455769,
+    "type": "book-chapter",
+    "venue": "Mathematics in Science and Engineering Alternative Mathematical Theory of Non-equilibrium Phenomena"
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9780511618956.015",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.251786,
+    "title": "Path integrals and symmetries",
+    "title_similarity": 0.335714,
+    "type": "other",
+    "venue": "Quantum Field Theory of Non-equilibrium States"
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.21468/scipostphys.18.1.008",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.390274,
+    "title": "Non-invertible and higher-form symmetries in 2+1d lattice gauge theories",
+    "title_similarity": 0.520365,
+    "type": "journal-article",
+    "venue": "SciPost Physics"
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.1088/1126-6708/2006/12/041",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.478524,
+    "title": "Global symmetries and 't Hooft anomalies in brane tilings",
+    "title_similarity": 0.638031,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevd.104.126019",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.456465,
+    "title": "Higher-form symmetries and their anomalies in M-/F-theory duality",
+    "title_similarity": 0.60862,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2101.02210",
+    "author_overlap": 0.0,
+    "doi": "10.1007/jhep07(2026)195",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.336513,
+    "title": "On mixed ’t Hooft anomalies of emergent symmetries",
+    "title_similarity": 0.448684,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2101.02513",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217751x21502183",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Holography and quantum information exchange between systems",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Modern Physics A"
+  },
+  {
+    "arxiv_id": "2101.04624",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-319-52573-0_4",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.383491,
+    "title": "Holographic Entanglement Entropy",
+    "title_similarity": 0.511321,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Holographic Entanglement Entropy"
+  },
+  {
+    "arxiv_id": "2101.04624",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevb.90.045107",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.342208,
+    "title": "Entanglement entropy of compressible holographic matter: Loop corrections from bulk fermions",
+    "title_similarity": 0.456277,
+    "type": "journal-article",
+    "venue": "Physical Review B"
+  },
+  {
+    "arxiv_id": "2101.04624",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-319-52573-0_6",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.44375,
+    "title": "Properties of Holographic Entanglement Entropy",
+    "title_similarity": 0.591667,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Holographic Entanglement Entropy"
+  },
+  {
+    "arxiv_id": "2101.04624",
+    "author_overlap": 0.0,
+    "doi": "10.1007/jhep09(2026)251",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.330586,
+    "title": "Covariant holographic entanglement entropy inversion to reconstruct bulk geometry",
+    "title_similarity": 0.440781,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2101.04624",
+    "author_overlap": 0.0,
+    "doi": "10.2139/ssrn.7460315",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.306941,
+    "title": "Emergent Spacetime from Deterministic Holographic Quantum Entanglement in a 5D Bulk Geometry",
+    "title_similarity": 0.409255,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.05432",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)096",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Exact symmetries and threshold states in two-dimensional models for QCD",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2101.05879",
+    "author_overlap": 0.0,
+    "doi": "10.22541/au.170129653.31944608/v1",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.214894,
+    "title": "The Replica Trick, Wormholes, Island formula, and Quantum Extremal Surfaces, and How the AdS/CFT Correspondence Conjecture, and Hence the M-theory, Encounters Multi-folds",
+    "title_similarity": 0.286525,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.05879",
+    "author_overlap": 0.0,
+    "doi": "10.31219/osf.io/xwf6q",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.214894,
+    "title": "The Replica Trick, Wormholes, Island formula, and Quantum Extremal Surfaces, and How the AdS/CFT Correspondence Conjecture, and Hence the M-theory, Encounters Multi-folds",
+    "title_similarity": 0.286525,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.05879",
+    "author_overlap": 0.0,
+    "doi": "10.14293/pr2199.004413.v1",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.17326,
+    "title": "Matter-Antimatter Wormhole",
+    "title_similarity": 0.231014,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.05879",
+    "author_overlap": 0.0,
+    "doi": "10.1016/j.physletb.2024.139130",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.254286,
+    "title": "Replica wormhole and AMPS firewall",
+    "title_similarity": 0.339048,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2101.05879",
+    "author_overlap": 0.0,
+    "doi": "10.1021/acs.jctc.1c00586.s001",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.212221,
+    "title": "Force-Correction Analysis Method for Derivation of Multidimensional Free-Energy Landscapes from Adaptively Biased Replica Simulations",
+    "title_similarity": 0.282961,
+    "type": "component",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2101.06668",
+    "author_overlap": 1.0,
+    "doi": "10.3390/particles5020014",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Unruh Effect and Information Entropy Approach",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Particles"
+  },
+  {
+    "arxiv_id": "2101.08566",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2021)077",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Normalization of D-instanton amplitudes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2101.09017",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.126.211602",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Crossing Symmetric Dispersion Relations for Mellin Amplitudes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2101.10978",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.084034",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Conformal gravity with totally antisymmetric torsion",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2101.12119",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.103.106024",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.969753,
+    "title": "SL(2,R) Wess-Zumino-Novikov-Witten spin-chain σ -model",
+    "title_similarity": 0.95967,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2102.00008",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2023)053",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.934378,
+    "title": "Light-cone gauge in non-relativistic AdS5×S5 string theory",
+    "title_similarity": 0.912504,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2102.00555",
+    "author_overlap": 0.0,
+    "doi": "10.1017/9781139507677.008",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.246875,
+    "title": "Geodesics",
+    "title_similarity": 0.329167,
+    "type": "book-chapter",
+    "venue": "Curved Spaces"
+  },
+  {
+    "arxiv_id": "2102.00555",
+    "author_overlap": 0.0,
+    "doi": "10.3406/barb.1967.62813",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.299773,
+    "title": "Generalised geodesics in a Riemannian space",
+    "title_similarity": 0.399697,
+    "type": "journal-article",
+    "venue": "Bulletin de la Classe des sciences"
+  },
+  {
+    "arxiv_id": "2102.00555",
+    "author_overlap": 0.0,
+    "doi": "10.1201/9781003087748-18",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.247579,
+    "title": "Connection and Geodesics",
+    "title_similarity": 0.330106,
+    "type": "book-chapter",
+    "venue": "Geometry, Symmetries, and Classical Physics"
+  },
+  {
+    "arxiv_id": "2102.00555",
+    "author_overlap": 0.0,
+    "doi": "10.1140/epjc/s10052-022-10682-6",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.226923,
+    "title": "Geodesics in generalised Ellis–Bronnikov spacetime embedded in warped 5D background",
+    "title_similarity": 0.302564,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2102.00555",
+    "author_overlap": 0.0,
+    "doi": "10.1201/9781003029458-29",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.27197,
+    "title": "The Classical Light Particle: Geodesics and Free Fall",
+    "title_similarity": 0.362626,
+    "type": "book-chapter",
+    "venue": "Fundamentals of Photon Physics"
+  },
+  {
+    "arxiv_id": "2102.01111",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physrep.2022.09.002",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Lectures on the Swampland Program in String Compactifications",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physics Reports"
+  },
+  {
+    "arxiv_id": "2102.01680",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2021)262",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "A double copy for asymptotic symmetries in the self-dual sector",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2102.02253",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2021.115551",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Higher spin gravities and presymplectic AKSZ models",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2102.03078",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjs/s11734-021-00252-4",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Testing the Bethe ansatz with large N renormalons",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal Special Topics"
+  },
+  {
+    "arxiv_id": "2102.05057",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)039",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Cosmology from confinement?",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2102.05697",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep06(2021)056",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Size and momentum of an infalling particle in the black hole interior",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2102.06097",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s40042-022-00669-7",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum correlation in quark–gluon medium",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of the Korean Physical Society"
+  },
+  {
+    "arxiv_id": "2102.10579",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-021-09256-9",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "General method for including Stueckelberg fields",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2102.10688",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2021.115496",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Covariant singularities in quantum field theory and quantum gravity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2102.12134",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2021)134",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Near-BPS baby Skyrmions with Gaussian tails",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2102.12322",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep04(2021)194",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "On topological recursion for Wilson loops in $$ \\mathcal{N} $$ = 4 SYM at strong coupling",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2102.12488",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2021)035",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Resurgence of the large-charge expansion",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.00415",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep04(2021)301",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Balanced partial entanglement and the entanglement wedge cross section",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.01230",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.127.051602",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.920573,
+    "title": "Moving Mirrors, Page Curves, and Bulk Entropies in AdS 2",
+    "title_similarity": 0.894097,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2103.02248",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physletb.2021.136270",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.980229,
+    "title": "Quantum periods and TBA equations for N=2 SU(2) N = 2 SQCD with flavor symmetry",
+    "title_similarity": 0.973638,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2103.04420",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2021)170",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Conformal blocks from celestial gluon amplitudes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.05013",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep06(2021)057",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "KLT factorization of winding string amplitudes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.05133",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217751x2250066x",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Spontaneous symmetry breakings in the singlet scalar Yukawa model within the auxiliary field method",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Modern Physics A"
+  },
+  {
+    "arxiv_id": "2103.05790",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep07(2021)006",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Electromagnetic albedo of Quantum Black Holes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.08231",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2021.115427",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Cubic vertices for N=1 supersymmetric massless higher spin fields in various dimensions",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2103.08724",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-021-09250-1",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "The Lorentz-violating real scalar field at thermal equilibrium",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2103.09930",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.103.l121702",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.82383,
+    "title": "d>2 stress-tensor operator product expansion near a line",
+    "title_similarity": 0.765106,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2103.10271",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s00220-022-04479-7",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Playing With the Index of M-Theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Communications in Mathematical Physics"
+  },
+  {
+    "arxiv_id": "2103.10437",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.127.131603",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.913951,
+    "title": "Gravitino Swampland Conjecture",
+    "title_similarity": 0.885268,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2103.11502",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-021-09251-0",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Charged throats in the Hořava–Lifshitz theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2103.11673",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2021)275",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Higher-spin Cotton tensors and massive gauge-invariant actions in AdS3",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.12717",
+    "author_overlap": 1.0,
+    "doi": "10.1063/5.0061214",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Crossing with the circle in Dijkgraaf–Witten theory and applications to topological phases of matter",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of Mathematical Physics"
+  },
+  {
+    "arxiv_id": "2103.14188",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.046013",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Effective holographic models for QCD: Thermodynamics and viscosity coefficients",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2103.14746",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)226",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Islands with gravitating baths: towards ER = EPR",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2103.15830",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep06(2021)020",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Gluon scattering in AdS from CFT",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2104.00281",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep07(2021)162",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Characters of irrelevant deformations",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2104.01551",
+    "author_overlap": 1.0,
+    "doi": "10.1002/prop.202100093",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "On the Entanglement Entropy in Gaussian cMERA",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Fortschritte der Physik"
+  },
+  {
+    "arxiv_id": "2104.02090",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep08(2021)094",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.946687,
+    "title": "Distributions in CFT. Part II. Minkowski space",
+    "title_similarity": 0.928916,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2104.03350",
+    "author_overlap": 1.0,
+    "doi": "10.22323/1.390.0042",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum fields, strings, and physical mathematics",
+    "title_similarity": 1.0,
+    "type": "proceedings-article",
+    "venue": "Proceedings of 40th International Conference on High Energy physics — PoS(ICHEP2020)"
+  },
+  {
+    "arxiv_id": "2104.03350",
+    "author_overlap": 0.0,
+    "doi": "10.1201/9780203755082-9",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.419568,
+    "title": "Quantum Strings and Random Surfaces",
+    "title_similarity": 0.559424,
+    "type": "book-chapter",
+    "venue": "Gauge Fields and Strings"
+  },
+  {
+    "arxiv_id": "2104.03350",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9780511793738.020",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.207341,
+    "title": "Strings",
+    "title_similarity": 0.276455,
+    "type": "book-chapter",
+    "venue": "Physical Mathematics"
+  },
+  {
+    "arxiv_id": "2104.03350",
+    "author_overlap": 0.0,
+    "doi": "10.1017/9781108555814.023",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.207341,
+    "title": "Strings",
+    "title_similarity": 0.276455,
+    "type": "book-chapter",
+    "venue": "Physical Mathematics"
+  },
+  {
+    "arxiv_id": "2104.03350",
+    "author_overlap": 0.0,
+    "doi": "10.2139/ssrn.5358519",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.239545,
+    "title": "Unifying Causal Fermion Networks with Entropic Gravity, Loop Quantum Geometry, Strings, and Nonequilibrium Quantum Fields",
+    "title_similarity": 0.319394,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2104.05716",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)137",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Superconformal algebras for generalized Spin(7) and G2 connected sums",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2104.06587",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1475-7516/2021/08/003",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Cutting cosmological correlators",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of Cosmology and Astroparticle Physics"
+  },
+  {
+    "arxiv_id": "2104.06994",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.127.141605",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Entanglement of Two Disjoint Intervals in Conformal Field Theory and the 2D Coulomb Gas on a Lattice",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2104.11336",
+    "author_overlap": 1.0,
+    "doi": "10.21468/scipostphyscore.4.3.020",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "The derivative expansion in asymptotically safe quantum gravity: general setup and quartic order",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "SciPost Physics Core"
+  },
+  {
+    "arxiv_id": "2104.11661",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217751x21501219",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Size-effect at finite temperature in a quark–antiquark effective model in phase space",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Modern Physics A"
+  },
+  {
+    "arxiv_id": "2104.13391",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.065005",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Anomalies and supersymmetry",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2104.13432",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.126033",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Conformal block expansion in celestial CFT",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2104.13680",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)167",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "WKB periods for higher order ODE and TBA equations",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.70675/cc6e3be3z1542z4672z82cbz38c939dcb90f",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.375,
+    "title": "AdS₄/CFT₃ and quantum gravity",
+    "title_similarity": 0.5,
+    "type": "dissertation",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-981-99-7681-2_65",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.260167,
+    "title": "The AdS/CFT Correspondence",
+    "title_similarity": 0.34689,
+    "type": "book-chapter",
+    "venue": "Handbook of Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-981-19-3079-9_65-1",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.260167,
+    "title": "The AdS/CFT Correspondence",
+    "title_similarity": 0.34689,
+    "type": "book-chapter",
+    "venue": "Handbook of Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1088/0264-9381/29/3/035008",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.283554,
+    "title": "Pathologies in Lovelock AdS black branes and AdS/CFT",
+    "title_similarity": 0.378072,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1088/0264-9381/25/3/035011",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.305915,
+    "title": "The CFT dual of AdS gravity with torsion",
+    "title_similarity": 0.407887,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9789812794598_0001",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.275284,
+    "title": "RETURN TO EQUILIBRIUM IN CLASSICAL AND QUANTUM SYSTEMS",
+    "title_similarity": 0.367045,
+    "type": "proceedings-article",
+    "venue": "Long Time Behaviour of Classical and Quantum Systems"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.36227/techrxiv.175295886.67877890/v1",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.261421,
+    "title": "Optimizing Hybrid Quantum-Classical Models Using Parameterized Quantum Circuits for Time-Series Forecasting",
+    "title_similarity": 0.348561,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1142/4640",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.359302,
+    "title": "Long Time Behaviour of Classical and Quantum Systems",
+    "title_similarity": 0.47907,
+    "type": "proceedings",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1088/0264-9381/13/3/005",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.221925,
+    "title": "Time and time functions in parametrized non-relativistic quantum mechanics",
+    "title_similarity": 0.295899,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2104.14434",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9789811267017_0003",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.402553,
+    "title": "Time in Classical and Quantum Mechanics",
+    "title_similarity": 0.536737,
+    "type": "book-chapter",
+    "venue": "The Mystery of Time"
+  },
+  {
+    "arxiv_id": "2105.00900",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-021-09363-7",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Exact $$\\beta $$-functions for $$\\mathcal{N}=1$$ supersymmetric theories finite in the lowest loops",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2105.01003",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep07(2021)001",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Exact 1/N expansion of Wilson loop correlators in $$ \\mathcal{N} $$ = 4 Super-Yang-Mills theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2105.01130",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1361-6382/ac51e7",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Homology conditions for RT surfaces in double holography",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2105.02984",
+    "author_overlap": 0.5,
+    "doi": "10.31526/acp.bsm-2021.40",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 0.875,
+    "title": "Flavor and CP from String Theory",
+    "title_similarity": 1.0,
+    "type": "proceedings-article",
+    "venue": "Proceedings of The International Conference on Beyond Standard Model: From Theory To Experiment"
+  },
+  {
+    "arxiv_id": "2105.02984",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physletb.2021.136176",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.837647,
+    "title": "Siegel modular flavor group and CP from string theory",
+    "title_similarity": 0.783529,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2105.02984",
+    "author_overlap": 0.666667,
+    "doi": "10.1016/j.nuclphysb.2019.114737",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.664714,
+    "title": "A string theory of flavor and CP",
+    "title_similarity": 0.664062,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2105.02984",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9781107261426.008",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.257692,
+    "title": "Anomalies, instantons and the strong CP problem",
+    "title_similarity": 0.34359,
+    "type": "book-chapter",
+    "venue": "Supersymmetry and String Theory"
+  },
+  {
+    "arxiv_id": "2105.02984",
+    "author_overlap": 0.0,
+    "doi": "10.22323/1.445.0028",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.167767,
+    "title": "Theory of the (Heavy-Quark) Exotic Hadrons: A Primer for the Flavor Community",
+    "title_similarity": 0.22369,
+    "type": "proceedings-article",
+    "venue": "Proceedings of 21st Conference on Flavor Physics and CP Violation — PoS(FPCP2023)"
+  },
+  {
+    "arxiv_id": "2105.03460",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.046026",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.849099,
+    "title": "Landscape of promising nonsupersymmetric string models",
+    "title_similarity": 0.798799,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2105.05722",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep09(2021)198",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "AdS3/AdS2 degression of massless particles",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2105.08063",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep02(2022)180",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum bit threads and holographic entanglement",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2105.08064",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep08(2021)015",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Conformal manifolds and 3d mirrors of Argyres-Douglas theories",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2105.08078",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2021.115534",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Orbifolds from Sp(4,Z) and their modular symmetries",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2105.09133",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.094016",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Implications of the topological Chern-Simons mass in the gap equation",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2105.09176",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)164",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Deriving the PEE proposal from the locking bit thread configuration",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2105.11374",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9789812810526_0009",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.481716,
+    "title": "Casimir Effect on a D-dimensional Sphere",
+    "title_similarity": 0.642289,
+    "type": "book-chapter",
+    "venue": "The Casimir Effect"
+  },
+  {
+    "arxiv_id": "2105.11374",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9789811266089_0002",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.289224,
+    "title": "Universal Casimir Interactions in the Sphere–Sphere Geometry",
+    "title_similarity": 0.385632,
+    "type": "book-chapter",
+    "venue": "The State of the Quantum Vacuum"
+  },
+  {
+    "arxiv_id": "2105.11374",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevb.84.075431",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.276506,
+    "title": "Casimir energy and entropy in the sphere-sphere geometry",
+    "title_similarity": 0.368675,
+    "type": "journal-article",
+    "venue": "Physical Review B"
+  },
+  {
+    "arxiv_id": "2105.11374",
+    "author_overlap": 0.0,
+    "doi": "10.1093/oso/9780198539988.003.0002",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.233036,
+    "title": "The Casimir effect for various fields and spatial domains",
+    "title_similarity": 0.310714,
+    "type": "book-chapter",
+    "venue": "The Casimir Effect and its Applications"
+  },
+  {
+    "arxiv_id": "2105.11374",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevlett.109.160403",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.175541,
+    "title": "Exact Results for Classical Casimir Interactions: Dirichlet and Drude Model in the Sphere-Sphere and Sphere-Plane Geometry",
+    "title_similarity": 0.234054,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2105.11684",
+    "author_overlap": 0.0,
+    "doi": "10.1016/j.physletb.2015.03.053",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.314118,
+    "title": "Graviton amplitudes from collinear limits of gauge amplitudes",
+    "title_similarity": 0.418824,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2105.11684",
+    "author_overlap": 0.0,
+    "doi": "10.1007/jhep11(2020)136",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.435047,
+    "title": "Graviton-mediated scattering amplitudes from the quantum effective action",
+    "title_similarity": 0.580063,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2105.11684",
+    "author_overlap": 0.0,
+    "doi": "10.1021/acs.jctc.6b01122.s001",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.30135,
+    "title": "Assessment of Interstate SpinOrbit Couplings from Linear Response Amplitudes",
+    "title_similarity": 0.4018,
+    "type": "component",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2105.11684",
+    "author_overlap": 0.0,
+    "doi": "10.1103/w18v-7619",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.292065,
+    "title": "Structure of Chern-Simons graviton scattering amplitudes from the topological graviton equivalence theorem and double copy",
+    "title_similarity": 0.38942,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2105.11684",
+    "author_overlap": 0.0,
+    "doi": "10.1134/s1063779612050036",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.487273,
+    "title": "Photon-graviton amplitudes from the effective action",
+    "title_similarity": 0.649697,
+    "type": "journal-article",
+    "venue": "Physics of Particles and Nuclei"
+  },
+  {
+    "arxiv_id": "2105.12347",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physletb.2021.136485",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Configuration entropy in the soft wall AdS/QCD model and the Wien law",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2105.12670",
+    "author_overlap": 1.0,
+    "doi": "10.3390/sym13071241",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum Supertwistors",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Symmetry"
+  },
+  {
+    "arxiv_id": "2105.13726",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep08(2021)046",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Target space entanglement in quantum mechanics of fermions and matrices",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.00228",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep07(2021)019",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Capacity of entanglement in local operators",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.03586",
+    "author_overlap": 1.0,
+    "doi": "10.1038/s41598-022-21098-3",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Minimal and maximal lengths of quantum gravity from non-hermitian position-dependent noncommutativity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Scientific Reports"
+  },
+  {
+    "arxiv_id": "2106.03892",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)151",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Ten dimensional symmetry of $$ \\mathcal{N} $$ = 4 SYM correlators",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.03964",
+    "author_overlap": 1.0,
+    "doi": "10.3390/universe7120464",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "De Sitter Holography: Fluctuations, Anomalous Symmetry, and Wormholes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Universe"
+  },
+  {
+    "arxiv_id": "2106.04226",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physletb.2021.136752",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Constraints on global symmetry breaking in quantum gravity from cosmic birefringence measurements",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2106.08632",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2021.115530",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Scattering matrix for current-current deformations of the (2,2s + 1) RSOS models",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2106.08772",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep09(2021)011",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Mildly flavoring domain walls in Sp(N) SQCD",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.09372",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2021)074",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Amplituhedron-like geometries",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.09723",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.128.011601",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.95725,
+    "title": "Model of Persistent Breaking of Discrete Symmetry",
+    "title_similarity": 0.943,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2106.11611",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s00220-022-04376-z",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Tetrahedron Instantons",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Communications in Mathematical Physics"
+  },
+  {
+    "arxiv_id": "2106.12635",
+    "author_overlap": 0.0,
+    "doi": "10.1016/0370-2693(85)91403-0",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.33825,
+    "title": "Scaling behaviour of the deconfinement temperature for SU(2) pure gauge theory at finite temperature",
+    "title_similarity": 0.451,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2106.12635",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9789811272356_0005",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.210721,
+    "title": "Gauge theories",
+    "title_similarity": 0.280962,
+    "type": "book-chapter",
+    "venue": "Finite Temperature Field Theory"
+  },
+  {
+    "arxiv_id": "2106.12635",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9789812819864_0004",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.210721,
+    "title": "Gauge Theories",
+    "title_similarity": 0.280962,
+    "type": "book-chapter",
+    "venue": "Finite Temperature Field Theory"
+  },
+  {
+    "arxiv_id": "2106.12635",
+    "author_overlap": 0.0,
+    "doi": "10.1007/jhep05(2019)204",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.359925,
+    "title": "Localisation in 2+1 dimensional SU(3) pure gauge theory at finite temperature",
+    "title_similarity": 0.479901,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.12635",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9780511535130.011",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.342371,
+    "title": "Lattice gauge theory",
+    "title_similarity": 0.456495,
+    "type": "book-chapter",
+    "venue": "Finite-Temperature Field Theory"
+  },
+  {
+    "arxiv_id": "2106.14575",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.085012",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Real-space entanglement of quantum fields",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2106.14899",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep08(2022)188",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Generalizing event shapes: in search of lost collider time",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2106.14918",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217751x24501598",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Holographic entanglement negativity for disjoint subsystems in conformal field theories with a conserved charge",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Modern Physics A"
+  },
+  {
+    "arxiv_id": "2106.15644",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.aop.2022.168867",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Construction of quantum target space from world-sheet states using quantum state tomography",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Annals of Physics"
+  },
+  {
+    "arxiv_id": "2106.15706",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s10773-022-05029-6",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Multiresolution Quantum Field Theory in Light-Front Coordinates",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Theoretical Physics"
+  },
+  {
+    "arxiv_id": "2106.15946",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)067",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Symmetry-resolved entanglement entropy in Wess-Zumino-Witten models",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.00025",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.026008",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.819215,
+    "title": "Reflections on the matter of 3DN=1vacua and localSpin(7)compactifications",
+    "title_similarity": 0.758953,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2107.00342",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.105015",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Five-dimensional CFTs from the ε -expansion",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2107.00667",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep08(2022)277",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "BFT2: a general class of 2d $$ \\mathcal{N} $$ = (0, 2) theories, 3-manifolds and toric geometry",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.01071",
+    "author_overlap": 1.0,
+    "doi": "10.3390/universe7080306",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Asymptotically Safe Gravity-Fermion Systems on Curved Backgrounds",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Universe"
+  },
+  {
+    "arxiv_id": "2107.01371",
+    "author_overlap": 0.0,
+    "doi": "10.1088/0264-9381/30/11/115016",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.617239,
+    "title": "On unimodular quantum gravity",
+    "title_similarity": 0.822985,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2107.01371",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1361-6382/acd100",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.655466,
+    "title": "Geometrical trinity of unimodular gravity",
+    "title_similarity": 0.540621,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2107.01371",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.126021",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.63375,
+    "title": "BRST quantization of general relativity in unimodular gauge and unimodular gravity",
+    "title_similarity": 0.511667,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2107.01371",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevd.107.046001",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.390262,
+    "title": "Unimodular gravity and the gauge/gravity duality",
+    "title_similarity": 0.520349,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2107.01371",
+    "author_overlap": 0.0,
+    "doi": "10.1088/1361-6382/ad3277",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.391667,
+    "title": "Unimodular Plebański gravity",
+    "title_similarity": 0.522222,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2107.01954",
+    "author_overlap": 0.0,
+    "doi": "10.21248/gups.74658",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.57803,
+    "title": "Non-perturbative aspects of (low-dimensional) quantum field theories",
+    "title_similarity": 0.770707,
+    "type": "dissertation",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2107.01954",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9781107705968.005",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.49982,
+    "title": "Non-perturbative aspects of Yang–Mills theories",
+    "title_similarity": 0.666427,
+    "type": "book-chapter",
+    "venue": "Instantons and Large N"
+  },
+  {
+    "arxiv_id": "2107.01954",
+    "author_overlap": 0.0,
+    "doi": "10.22323/1.006.0028",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.373878,
+    "title": "Aspects of noncommutative field and string theories",
+    "title_similarity": 0.498504,
+    "type": "proceedings-article",
+    "venue": "Proceedings of Non-perturbative Quantum Effects 2000 — PoS(tmr2000)"
+  },
+  {
+    "arxiv_id": "2107.01954",
+    "author_overlap": 0.0,
+    "doi": "10.15476/elte.2025.239",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.472788,
+    "title": "Non-perturbative effects in integrable quantum field theories",
+    "title_similarity": 0.630384,
+    "type": "dissertation",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2107.01954",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-94-015-7809-7_13",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.563971,
+    "title": "Algebraic Aspects of Non-Perturbative Quantum Field Theories",
+    "title_similarity": 0.751961,
+    "type": "book-chapter",
+    "venue": "Differential Geometrical Methods in Theoretical Physics"
+  },
+  {
+    "arxiv_id": "2107.02215",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1475-7516/2021/10/047",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Internal excitations of global vortices",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of Cosmology and Astroparticle Physics"
+  },
+  {
+    "arxiv_id": "2107.03073",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.105001",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Fractons in effective field theories for spontaneously broken translations",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2107.03401",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep12(2021)009",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Deformations of supergravity and supersymmetry anomalies",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.05607",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s00023-021-01125-1",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "On Strong Integrability of the Dressing Cosets",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Annales Henri Poincaré"
+  },
+  {
+    "arxiv_id": "2107.05662",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)081",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "On the assumptions leading to the information loss paradox",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.06250",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep01(2022)031",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Ambidextrous light transforms for celestial amplitudes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.06816",
+    "author_overlap": 1.0,
+    "doi": "10.21468/scipostphys.12.5.152",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "2-Group symmetries in class S",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "SciPost Physics"
+  },
+  {
+    "arxiv_id": "2107.07424",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep09(2021)150",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Causality constraints in Quadratic Gravity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.09020",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physletb.2022.137192",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.9359,
+    "title": "Conformality and self-duality of N = 2 QED3",
+    "title_similarity": 0.914533,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2107.09779",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)168",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.866096,
+    "title": "A note on h2,1 of divisors in CY fourfolds. Part I",
+    "title_similarity": 0.821462,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.10282",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2021)062",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "p-form surface charges on AdS: renormalization and conservation",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.11384",
+    "author_overlap": 0.666667,
+    "doi": "10.1007/jhep11(2021)087",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 0.916667,
+    "title": "Scattering amplitudes for binary systems beyond GR",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.11604",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep01(2022)121",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "A sum rule for boundary contributions to the trace anomaly",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2107.11883",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2023)135",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "A freely falling graviton in the D1D5 CFT",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2108.00835",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.124028",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 0.935046,
+    "title": "Effect of a small cosmological constant on the electromagnetic memory effect",
+    "title_similarity": 0.913394,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2108.01117",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.128.021603",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Renormalization Group Flows on Line Defects",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2108.01649",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)008",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Classical observables from coherent-spin amplitudes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2108.02514",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.084023",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Analytic topological hairy dyonic black holes and thermodynamics",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2108.03696",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep07(2022)107",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "3d $$ \\mathcal{N} $$ = 2 brane webs and quiver matrices",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2108.04469",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2021)075",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Component actions of liberated $$ \\mathcal{N} $$ = 1 supergravity and new Fayet-Iliopoulos terms in superconformal tensor calculus",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2108.06068",
+    "author_overlap": 1.0,
+    "doi": "10.21468/scipostphys.12.3.084",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Semi-local Bounds on Null Energy in QFT",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "SciPost Physics"
+  },
+  {
+    "arxiv_id": "2108.06579",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep10(2021)143",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Boundary conformal field theory at large charge",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2108.07820",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.127.241602",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Amplitudes and the Riemann Zeta Function",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2108.10304",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-022-10156-9",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Resonant superalgebras for supergravity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2109.00079",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.046007",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Structure of holographic BCFT correlators from geodesics",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2109.01088",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.104.106002",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.872067,
+    "title": "Cascade of instabilities in the classical limit of the Berenstein-Maldacena-Nastase matrix model",
+    "title_similarity": 0.829423,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2109.01110",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep08(2022)214",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Evidence for an algebra of G2 instantons",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.02672",
+    "author_overlap": 0.0,
+    "doi": "10.1021/acs.jpcc.0c04531.s001",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.247034,
+    "title": "Enhancement of Tetraphenylporphyrin Electrochemiluminescence by Means of Symmetry Breaking",
+    "title_similarity": 0.329379,
+    "type": "component",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2109.02672",
+    "author_overlap": 0.0,
+    "doi": "10.1021/acs.nanolett.7b01662.s001",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.297912,
+    "title": "Photoluminescence Enhancement through Symmetry Breaking Induced by Defects in Nanocrystals",
+    "title_similarity": 0.397215,
+    "type": "component",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2109.02672",
+    "author_overlap": 0.0,
+    "doi": "10.3390/sym17091560",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.254286,
+    "title": "Symmetry-Aware Face Illumination Enhancement via Pixel-Adaptive Curve Mapping",
+    "title_similarity": 0.339048,
+    "type": "journal-article",
+    "venue": "Symmetry"
+  },
+  {
+    "arxiv_id": "2109.02672",
+    "author_overlap": 0.0,
+    "doi": "10.3390/sym18111769",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.154261,
+    "title": "Intelligent Translation for Less Commonly Taught Languages: Symmetry-Aware Bidirectional Decoding with Linguistic Guidance and XLNet Enhancement",
+    "title_similarity": 0.205681,
+    "type": "journal-article",
+    "venue": "Symmetry"
+  },
+  {
+    "arxiv_id": "2109.02672",
+    "author_overlap": 0.0,
+    "doi": "10.3390/sym14061165",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.185526,
+    "title": "Successive Low-Light Image Enhancement Using an Image-Adaptive Mask",
+    "title_similarity": 0.247368,
+    "type": "journal-article",
+    "venue": "Symmetry"
+  },
+  {
+    "arxiv_id": "2109.03271",
+    "author_overlap": 1.0,
+    "doi": "10.3390/physics3030035",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Cosmological Formation of (2 + 1)-Dimensional Soliton Structures in Models Possessing Potentials with Local Peaks",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physics"
+  },
+  {
+    "arxiv_id": "2109.03363",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep02(2022)065",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Beyond second-moment approximation in fuzzy-field-theory-like matrix models",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.03752",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2021)013",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Discrete gravity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.08551",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep12(2021)032",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.899091,
+    "title": "Holographic M5 branes in AdS7 × S4",
+    "title_similarity": 0.865455,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.09699",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep12(2021)080",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Fuzzy worldlines with κ-Poincaré symmetries",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.09804",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep01(2022)024",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "More on the SW-QNM correspondence",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.10401",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-031-35358-1_1",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.165556,
+    "title": "Elements to Elementary Particles",
+    "title_similarity": 0.220742,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Strings to Strings"
+  },
+  {
+    "arxiv_id": "2109.10401",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-031-35358-1_22",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.271628,
+    "title": "Flux Tubes and Effective String Theories (EST)",
+    "title_similarity": 0.36217,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Strings to Strings"
+  },
+  {
+    "arxiv_id": "2109.10401",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-031-35358-1_18",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.140625,
+    "title": "Effective Field Theories",
+    "title_similarity": 0.1875,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Strings to Strings"
+  },
+  {
+    "arxiv_id": "2109.10401",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-031-35358-1_17",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.150714,
+    "title": "The Birth of String Theory",
+    "title_similarity": 0.200952,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Strings to Strings"
+  },
+  {
+    "arxiv_id": "2109.10401",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-3-031-35358-1_20",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.145313,
+    "title": "Essentials of Lattice Gauge Theories (LGT)",
+    "title_similarity": 0.19375,
+    "type": "book-chapter",
+    "venue": "Lecture Notes in Physics Strings to Strings"
+  },
+  {
+    "arxiv_id": "2109.10942",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.physletb.2021.136753",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Non-perturbative BRST symmetry and the spectral structure of the ghost propagator",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physics Letters B"
+  },
+  {
+    "arxiv_id": "2109.10961",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep02(2022)088",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Swampland constraints on neutrino masses",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.11147",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217751x21300155",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Understanding the index theorems with massive fermions",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Modern Physics A"
+  },
+  {
+    "arxiv_id": "2109.12200",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep11(2021)186",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "String theory at order α′2 and the generalized Bergshoeff-de Roo identification",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2109.13240",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1751-8121/ac4abd",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.963696,
+    "title": "Classical string solutions in non-relativistic AdS 5 × S 5 : closed and twisted sectors",
+    "title_similarity": 0.951594,
+    "type": "journal-article",
+    "venue": "Journal of Physics A: Mathematical and Theoretical"
+  },
+  {
+    "arxiv_id": "2109.13946",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.074019",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Dense matter equation of state and phase transitions from a generalized Skyrme model",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2109.14618",
+    "author_overlap": 1.0,
+    "doi": "10.21468/scipostphys.12.5.157",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum minimal surfaces from quantum error correction",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "SciPost Physics"
+  },
+  {
+    "arxiv_id": "2110.02209",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2024)310",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Massive covariant colour-kinematics in 3D",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.04303",
+    "author_overlap": 0.0,
+    "doi": "10.22323/1.323.0005",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.235192,
+    "title": "Modave lectures on bulk reconstruction in AdS/CFT",
+    "title_similarity": 0.31359,
+    "type": "proceedings-article",
+    "venue": "Proceedings of XIII Modave Summer School in Mathematical Physics — PoS(Modave2017)"
+  },
+  {
+    "arxiv_id": "2110.04303",
+    "author_overlap": 0.0,
+    "doi": "10.1007/jhep07(2012)093",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.224788,
+    "title": "Extremal surfaces as bulk probes in AdS/CFT",
+    "title_similarity": 0.299718,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.04303",
+    "author_overlap": 0.0,
+    "doi": "10.1007/jhep03(2017)153",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.218182,
+    "title": "Bulk locality and entanglement swapping in AdS/CFT",
+    "title_similarity": 0.290909,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.04303",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevd.87.086004",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.24223,
+    "title": "CFT representation of interacting bulk gauge fields in AdS",
+    "title_similarity": 0.322973,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2110.04303",
+    "author_overlap": 0.0,
+    "doi": "10.2139/ssrn.7081172",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.058241,
+    "title": "PCW GEOMETRY, BULK–BOUNDARY INFORMATION EQUIVALENCE, AND OBSERVATIONAL TESTS: A FIVE-DIMENSIONAL FRAMEWORK FOR ADS/CFT, BLACK-HOLE INFORMATION, AND COSMOLOGICAL ENERGY CONSERVATION",
+    "title_similarity": 0.077654,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2110.04730",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2022.115691",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Fingerprints of the quantum space-time in time-dependent quantum mechanics: An emergent geometric phase",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2110.05289",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.076020",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "IR/UV mixing from local similarity maps of scalar non-Hermitian field theories",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2110.05870",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)102",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Affine Yangian of $$ \\mathfrak{gl} $$(2) and integrable structures of superconformal field theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.07327",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.024054",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Yang-Mills model for centrally extended 2D gravity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2110.07617",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep02(2022)152",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.934577,
+    "title": "Convexity, large charge and the large-N phase diagram of the φ4 theory",
+    "title_similarity": 0.91277,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.08001",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)035",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "4d S-duality wall and SL(2, ℤ) relations",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.11358",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217732321300251",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "On completeness and generalized symmetries in quantum field theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Modern Physics Letters A"
+  },
+  {
+    "arxiv_id": "2110.11388",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep12(2021)218",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Heptagon functions and seven-gluon amplitudes in multi-Regge kinematics",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2110.14616",
+    "author_overlap": 0.0,
+    "doi": "10.1063/1.53229",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.546053,
+    "title": "Heterotic-type II duality",
+    "title_similarity": 0.72807,
+    "type": "proceedings-article",
+    "venue": "AIP Conference Proceedings"
+  },
+  {
+    "arxiv_id": "2110.14616",
+    "author_overlap": 0.0,
+    "doi": "10.1063/1.1301387",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.35544,
+    "title": "Heterotic/Type-II duality and its field theory avatars",
+    "title_similarity": 0.47392,
+    "type": "proceedings-article",
+    "venue": "AIP Conference Proceedings"
+  },
+  {
+    "arxiv_id": "2110.14616",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-94-011-4730-9_6",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.563001,
+    "title": "Lectures on Heterotic-Type I Duality",
+    "title_similarity": 0.750668,
+    "type": "book-chapter",
+    "venue": "Strings, Branes and Dualities"
+  },
+  {
+    "arxiv_id": "2110.14616",
+    "author_overlap": 0.0,
+    "doi": "10.1016/s0550-3213(02)00895-7",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.2874,
+    "title": "Non-Abelian Born–Infeld action and Type I–heterotic duality (I): Heterotic F6 terms at two loops",
+    "title_similarity": 0.3832,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2110.14616",
+    "author_overlap": 0.0,
+    "doi": "10.1016/0550-3213(95)00614-1",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.511513,
+    "title": "Evidence for heterotic — Type I string duality",
+    "title_similarity": 0.682018,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2110.14942",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.024070",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Superradiant instability of extremal black holes in STU supergravity",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2110.15257",
+    "author_overlap": 0.0,
+    "doi": "10.22541/au.166299378.80719974/v1",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.324149,
+    "title": "Bulk Branes in Supergravity Theories",
+    "title_similarity": 0.432198,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2110.15257",
+    "author_overlap": 0.0,
+    "doi": "10.2139/ssrn.4356907",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.324149,
+    "title": "Bulk Branes in Supergravity Theories",
+    "title_similarity": 0.432198,
+    "type": "posted-content",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2110.15257",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9780511806476.006",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.2875,
+    "title": "Perturbations of boundary conformal field theories",
+    "title_similarity": 0.383333,
+    "type": "book-chapter",
+    "venue": "Boundary Conformal Field Theory and the Worldsheet Approach to D-Branes"
+  },
+  {
+    "arxiv_id": "2110.15257",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-94-010-0514-2_17",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.357816,
+    "title": "Conformal Boundary Conditions and 3D Topological Field Theory",
+    "title_similarity": 0.477089,
+    "type": "book-chapter",
+    "venue": "Statistical Field Theories"
+  },
+  {
+    "arxiv_id": "2110.15257",
+    "author_overlap": 0.0,
+    "doi": "10.21468/scipostphys.14.6.153",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.315973,
+    "title": "Monopole operators and bulk-boundary relation in holomorphic topological theories",
+    "title_similarity": 0.421297,
+    "type": "journal-article",
+    "venue": "SciPost Physics"
+  },
+  {
+    "arxiv_id": "2111.01141",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.128.111601",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Kramers-Wannier-like Duality Defects in ( 3 + 1 ) D Gauge Theories",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2111.01967",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep01(2022)019",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Planckian physics comes into play at Planckian distance from horizon",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2111.03045",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep04(2022)011",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Geometric soft theorems",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2111.03078",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)087",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Orientifold Calabi-Yau threefolds with divisor involutions and string landscape",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2111.03424",
+    "author_overlap": 1.0,
+    "doi": "10.1093/ptep/ptac081",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Probing the entanglement of operator growth",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Progress of Theoretical and Experimental Physics"
+  },
+  {
+    "arxiv_id": "2111.04201",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.066022",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Corrections to extremal black holes from Iyer-Wald formalism",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2111.04756",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.126012",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Faking gauge coupling unification in string theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevd.84.124030",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.35201,
+    "title": "Hairy black holes and null circular geodesics",
+    "title_similarity": 0.469347,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1140/epjc/s10052-023-11450-w",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.320684,
+    "title": "The existence of null circular geodesics outside extremal spherically symmetric asymptotically flat hairy black holes",
+    "title_similarity": 0.427579,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1088/1361-6382/ae8c0c",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.255937,
+    "title": "Coherent quantum hairy black holes from gravitational decoupling: regularity, geodesics, and scalar ringdown",
+    "title_similarity": 0.34125,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1103/physrevd.105.124009",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.403945,
+    "title": "Null geodesics and shadow of hairy black holes in Einstein-Maxwell-dilaton gravity",
+    "title_similarity": 0.538593,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.70675/846b9e49z77f4z4520zad28zc5586e36f468",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.332215,
+    "title": "Hairy black holes and other compact objects in theories of gravity",
+    "title_similarity": 0.442953,
+    "type": "dissertation",
+    "venue": ""
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1016/j.aop.2021.168557",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.396111,
+    "title": "Geodesic motion around hairy black holes",
+    "title_similarity": 0.528148,
+    "type": "journal-article",
+    "venue": "Annals of Physics"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.7763/ijet.2016.v6.904",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.328074,
+    "title": "Rigorous Bounds on Greybody Factors: Scalar Emission of Negative Angular Momentum Modes from Myers-Perry Black Holes",
+    "title_similarity": 0.437432,
+    "type": "journal-article",
+    "venue": "International Journal of Engineering and Technology"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1016/j.newast.2004.09.001",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.491822,
+    "title": "Angular momentum of massive black holes",
+    "title_similarity": 0.655763,
+    "type": "journal-article",
+    "venue": "New Astronomy"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1007/11403913_51",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.299385,
+    "title": "Time Variability of Low Angular Momentum Flows Accreting onto Black Holes: A Natural Mechanism for Radiation Flaring",
+    "title_similarity": 0.39918,
+    "type": "book-chapter",
+    "venue": "ESO Astrophysics Symposia Growing Black Holes: Accretion in a Cosmological Context"
+  },
+  {
+    "arxiv_id": "2111.04800",
+    "author_overlap": 0.0,
+    "doi": "10.1007/978-90-481-2810-5_12",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.367784,
+    "title": "Angular Momentum-Mass Inequality for Axisymmetric Black Holes",
+    "title_similarity": 0.490378,
+    "type": "book-chapter",
+    "venue": "New Trends in Mathematical Physics"
+  },
+  {
+    "arxiv_id": "2111.05295",
+    "author_overlap": 1.0,
+    "doi": "10.55730/1300-0101.1000",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv",
+      "publisher_doi_alias"
+    ],
+    "score": 1.0,
+    "title": "Contrasting the fuzzball and wormhole paradigms for black holes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Turkish Journal of Physics"
+  },
+  {
+    "arxiv_id": "2111.06083",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2022.115668",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Remarks on N=1 supersymmetric extension of the Euler top",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2111.06790",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.065012",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Relativistic moduli space for kink collisions",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2111.07453",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217751x22500622",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Deforming integrable models of AdS3 strings",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "International Journal of Modern Physics A"
+  },
+  {
+    "arxiv_id": "2111.09330",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep02(2022)187",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Phase transitions for deformations of JT supergravity and matrix models",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2111.10720",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep09(2023)138",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Exact QFT duals of AdS black holes",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2111.10987",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-022-10611-7",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Higher-derivative field redefinitions in the presence of boundary",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2111.11570",
+    "author_overlap": 1.0,
+    "doi": "10.3390/universe9010028",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Generalized Unitarity Method for Unstable Particles",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Universe"
+  },
+  {
+    "arxiv_id": "2111.12446",
+    "author_overlap": 1.0,
+    "doi": "10.1140/epjc/s10052-022-10493-9",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Classical solutions of $$\\lambda $$-deformed coset models",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "The European Physical Journal C"
+  },
+  {
+    "arxiv_id": "2111.12745",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2022)053",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "On the 3d compactifications of 5d SCFTs associated with SU(N + 1) gauge theories",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2111.14543",
+    "author_overlap": 1.0,
+    "doi": "10.3390/universe8020101",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.817628,
+    "title": "𝒩 = 1 Curves on Generalized Coulomb Branches of Supersymmetric Gauge Theories",
+    "title_similarity": 0.756838,
+    "type": "journal-article",
+    "venue": "Universe"
+  },
+  {
+    "arxiv_id": "2111.15529",
+    "author_overlap": 1.0,
+    "doi": "10.1093/ptep/ptac003",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Manifestly gauge invariant exact renormalization group for quantum electrodynamics",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Progress of Theoretical and Experimental Physics"
+  },
+  {
+    "arxiv_id": "2112.00551",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.056013",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.862905,
+    "title": "How special are black holes? Correspondence with objects saturating unitarity bounds in generic theories",
+    "title_similarity": 0.817207,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2112.00763",
+    "author_overlap": 1.0,
+    "doi": "10.1038/s42005-022-01019-6",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Holographic cone of average entropies",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Communications Physics"
+  },
+  {
+    "arxiv_id": "2112.02106",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.085008",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Bootstrapping Nf=4 conformal QED3",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2112.02188",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1361-6382/ac8f0e",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Notes on peculiarities of quantum fields in space–times with horizons",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2112.02586",
+    "author_overlap": 1.0,
+    "doi": "10.3390/universe9040191",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Modified Stückelberg Formalism: Free Massive Abelian 2-Form Theory in 4D",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Universe"
+  },
+  {
+    "arxiv_id": "2112.02968",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.025023",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.939612,
+    "title": "Running coupling constant in thermal ϕ4 theory up to two loop order",
+    "title_similarity": 0.919482,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2112.03793",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)121",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "One-dimensional Quantum Gravity and the Schwarzian theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.03931",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep06(2022)003",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "The higher-dimensional origin of five-dimensional $$ \\mathcal{N} $$ = 2 gauged supergravities",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.03947",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.106.l061902",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.93987,
+    "title": "Natural F-theory constructions of standard model structure from E 7 flux breaking",
+    "title_similarity": 0.919826,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2112.04209",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.nuclphysb.2022.115744",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Meson potential energy in a non-conformal holographic model",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Nuclear Physics B"
+  },
+  {
+    "arxiv_id": "2112.04962",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep04(2022)099",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Black hole attractors and U(1) Fayet-Iliopoulos gaugings: analysis and classification",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.05333",
+    "author_overlap": 0.0,
+    "doi": "10.1017/cbo9781139644198.006",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.457989,
+    "title": "Supersymmetric gauge theories",
+    "title_similarity": 0.610652,
+    "type": "book-chapter",
+    "venue": "The Quantum Theory of Fields"
+  },
+  {
+    "arxiv_id": "2112.05333",
+    "author_overlap": 0.0,
+    "doi": "10.1142/9781848160927_0003",
+    "reason": "excluded_nonjournal",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.326006,
+    "title": "ON NON-PERTURBATIVE RESULTS IN SUPERSYMMETRIC GAUGE THEORIES – A LECTURE",
+    "title_similarity": 0.434675,
+    "type": "proceedings-article",
+    "venue": "Gauge Theories, Applied Supersymmetry and Quantum Gravity II"
+  },
+  {
+    "arxiv_id": "2112.05333",
+    "author_overlap": 0.0,
+    "doi": "10.1016/0003-4916(85)90235-0",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.434735,
+    "title": "Supersymmetric gauge theories in quantum mechanics",
+    "title_similarity": 0.579646,
+    "type": "journal-article",
+    "venue": "Annals of Physics"
+  },
+  {
+    "arxiv_id": "2112.05333",
+    "author_overlap": 0.0,
+    "doi": "10.1088/0264-9381/20/7/302",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.327874,
+    "title": "Supersymmetric gauge theories, vortices and equivariant cohomology",
+    "title_similarity": 0.437165,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2112.05333",
+    "author_overlap": 0.0,
+    "doi": "10.1088/0264-9381/22/8/003",
+    "reason": "weak_title_or_authors",
+    "route": [
+      "title_search"
+    ],
+    "score": 0.343282,
+    "title": "Lectures on nonperturbative aspects of supersymmetric gauge theories",
+    "title_similarity": 0.45771,
+    "type": "journal-article",
+    "venue": "Classical and Quantum Gravity"
+  },
+  {
+    "arxiv_id": "2112.05390",
+    "author_overlap": 1.0,
+    "doi": "10.1142/s0217732322500596",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "“Krein” regularization method",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Modern Physics Letters A"
+  },
+  {
+    "arxiv_id": "2112.05954",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2022)058",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Black hole superpotential as a unifying entropy function and BPS thermodynamics",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.06928",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep04(2022)131",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Yangian Ward identities for fishnet four-point integrals",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.08375",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevlett.128.191601",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Exactly Marginal Deformations and Their Supergravity Duals",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review Letters"
+  },
+  {
+    "arxiv_id": "2112.08422",
+    "author_overlap": 1.0,
+    "doi": "10.1016/j.ppnp.2022.103972",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Holographic approach to compact stars and their binary mergers",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Progress in Particle and Nuclear Physics"
+  },
+  {
+    "arxiv_id": "2112.09316",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep04(2022)161",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Dual D-brane actions in nonrelativistic string theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.10295",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.105.024065",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum Lagrangian of the Hořava theory and its nonlocalities",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2112.10573",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep01(2024)098",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Partial spectral flow in the D1D5 CFT",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.11411",
+    "author_overlap": 1.0,
+    "doi": "10.1088/1751-8121/ac6996",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Spectral geometry of nuts and bolts",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of Physics A: Mathematical and Theoretical"
+  },
+  {
+    "arxiv_id": "2112.12156",
+    "author_overlap": 1.0,
+    "doi": "10.1103/physrevd.108.086020",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Emergent times in holographic duality",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Physical Review D"
+  },
+  {
+    "arxiv_id": "2112.12162",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep03(2023)017",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Quantum codes, CFTs, and defects",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.12695",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep07(2022)004",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Cosmological scattering equations at tree-level and one-loop",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.12756",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s11005-022-01587-2",
+    "reason": "accepted",
+    "route": [
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Two field-theoretic viewpoints on the Fukaya-Morse $$A_\\infty $$ category",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Letters in Mathematical Physics"
+  },
+  {
+    "arxiv_id": "2112.12756",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s11005-022-01622-2",
+    "reason": "excluded_correction",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 0.899922,
+    "title": "Correction: Two field-theoretic viewpoints on the Fukaya-Morse A∞ category",
+    "title_similarity": 0.866563,
+    "type": "journal-article",
+    "venue": "Letters in Mathematical Physics"
+  },
+  {
+    "arxiv_id": "2112.13782",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep05(2022)049",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Partial reduction and cosmology at defect brane",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.15082",
+    "author_overlap": 1.0,
+    "doi": "10.1007/s10714-022-02898-4",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Dilatonic effect in double field theory cosmology",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "General Relativity and Gravitation"
+  },
+  {
+    "arxiv_id": "2112.15172",
+    "author_overlap": 1.0,
+    "doi": "10.1007/jhep02(2022)092",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Complex linear multiplets and local supersymmetry breaking",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Journal of High Energy Physics"
+  },
+  {
+    "arxiv_id": "2112.15592",
+    "author_overlap": 1.0,
+    "doi": "10.5506/aphyspolb.54.6-a2",
+    "reason": "accepted",
+    "route": [
+      "arxiv_doi",
+      "inspire_arxiv"
+    ],
+    "score": 1.0,
+    "title": "Extra Dimensions and Fuzzy Branes in String-inspired Nonlocal Field Theory",
+    "title_similarity": 1.0,
+    "type": "journal-article",
+    "venue": "Acta Physica Polonica B"
+  }
+]

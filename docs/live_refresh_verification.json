@@ -1,0 +1,10 @@
+{
+  "completed_utc": "2026-11-05T21:08:05.446761+00:00",
+  "cutoff": "2026-11-05",
+  "gold_validation": "Not transferred: the frozen gold is dated and snapshot-specific.",
+  "page_http_failures_n": 2,
+  "page_requests_n": 55,
+  "sample_n": 200,
+  "searched_unmatched_n": 19,
+  "status": "core_api_snapshot_complete"
+}

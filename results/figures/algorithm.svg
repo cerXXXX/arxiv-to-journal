@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="848" height="350" viewBox="0 0 848 350">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="0.000" y="0.000" width="258.000" height="100.000" fill="#EEF4F5"/>
+<text x="12.000" y="28.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">1 · Данные и выборка</text>
+<text x="12.000" y="54.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">arXiv 2021: 7 127 → 3 770</text>
+<text x="12.000" y="73.050" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Основная hep-th → 200</text>
+<text x="12.000" y="92.100" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Отбор по SHA256; версия v1</text>
+<rect x="295.000" y="0.000" width="258.000" height="100.000" fill="#EEF4F5"/>
+<text x="307.000" y="28.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">2 · Кандидаты</text>
+<text x="307.000" y="54.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">DOI arXiv + INSPIRE</text>
+<text x="307.000" y="73.050" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Если не найдено: поиск</text>
+<text x="307.000" y="92.100" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Crossref / OpenAlex, top-5</text>
+<rect x="590.000" y="0.000" width="258.000" height="100.000" fill="#EEF4F5"/>
+<text x="602.000" y="28.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">3 · Совпадение?</text>
+<text x="602.000" y="54.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Журнал; дата ≤ среза</text>
+<text x="602.000" y="73.050" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Идентификаторы + авторы</text>
+<text x="602.000" y="92.100" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Или название + авторы</text>
+<line x1="258.000" y1="50.000" x2="295.000" y2="50.000" stroke="#23527A"/>
+<line x1="289.000" y1="46.000" x2="295.000" y2="50.000" stroke="#23527A"/>
+<line x1="289.000" y1="54.000" x2="295.000" y2="50.000" stroke="#23527A"/>
+<line x1="553.000" y1="50.000" x2="590.000" y2="50.000" stroke="#23527A"/>
+<line x1="584.000" y1="46.000" x2="590.000" y2="50.000" stroke="#23527A"/>
+<line x1="584.000" y1="54.000" x2="590.000" y2="50.000" stroke="#23527A"/>
+<line x1="719.000" y1="100.000" x2="719.000" y2="120.000" stroke="#23527A"/>
+<line x1="424.000" y1="120.000" x2="719.000" y2="120.000" stroke="#23527A"/>
+<line x1="424.000" y1="120.000" x2="424.000" y2="150.000" stroke="#23527A"/>
+<line x1="420.000" y1="144.000" x2="424.000" y2="150.000" stroke="#23527A"/>
+<line x1="428.000" y1="144.000" x2="424.000" y2="150.000" stroke="#23527A"/>
+<line x1="719.000" y1="120.000" x2="719.000" y2="150.000" stroke="#23527A"/>
+<line x1="715.000" y1="144.000" x2="719.000" y2="150.000" stroke="#23527A"/>
+<line x1="723.000" y1="144.000" x2="719.000" y2="150.000" stroke="#23527A"/>
+<text x="435.000" y="136.000" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#18343d" text-anchor="start">нет / неоднозначно</text>
+<text x="730.000" y="136.000" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#18343d" text-anchor="start">да</text>
+<rect x="295.000" y="150.000" width="258.000" height="100.000" fill="#EEF4F5"/>
+<text x="307.000" y="178.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">4б · Не найдено: 19</text>
+<text x="307.000" y="204.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Статус сохраняется</text>
+<text x="307.000" y="223.050" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Поля публикации: NA</text>
+<text x="307.000" y="242.100" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Не означает «никогда»</text>
+<rect x="590.000" y="150.000" width="258.000" height="100.000" fill="#EEF4F5"/>
+<text x="602.000" y="178.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">4а · Найдено: 181</text>
+<text x="602.000" y="204.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Дата статьи − дата v1</text>
+<text x="602.000" y="223.050" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Точные ≥ 0 дней: 176</text>
+<text x="602.000" y="242.100" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Журнал → SJR 2025 → Q</text>
+<rect x="0.000" y="150.000" width="258.000" height="100.000" fill="#EEF4F5"/>
+<text x="12.000" y="178.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">5 · Проверка</text>
+<text x="12.000" y="204.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Ручная сверка 10 + 10</text>
+<text x="12.000" y="223.050" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Исправить правило,</text>
+<text x="12.000" y="242.100" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">повторить сопоставление</text>
+<line x1="129.000" y1="150.000" x2="129.000" y2="120.000" stroke="#23527A"/>
+<line x1="129.000" y1="120.000" x2="277.000" y2="120.000" stroke="#23527A"/>
+<line x1="277.000" y1="120.000" x2="277.000" y2="50.000" stroke="#23527A"/>
+<line x1="277.000" y1="50.000" x2="295.000" y2="50.000" stroke="#23527A"/>
+<line x1="289.000" y1="46.000" x2="295.000" y2="50.000" stroke="#23527A"/>
+<line x1="289.000" y1="54.000" x2="295.000" y2="50.000" stroke="#23527A"/>
+<line x1="424.000" y1="250.000" x2="424.000" y2="285.000" stroke="#23527A"/>
+<line x1="420.000" y1="279.000" x2="424.000" y2="285.000" stroke="#23527A"/>
+<line x1="428.000" y1="279.000" x2="424.000" y2="285.000" stroke="#23527A"/>
+<line x1="719.000" y1="250.000" x2="719.000" y2="285.000" stroke="#23527A"/>
+<line x1="715.000" y1="279.000" x2="719.000" y2="285.000" stroke="#23527A"/>
+<line x1="723.000" y1="279.000" x2="719.000" y2="285.000" stroke="#23527A"/>
+<line x1="129.000" y1="285.000" x2="129.000" y2="250.000" stroke="#23527A"/>
+<line x1="125.000" y1="256.000" x2="129.000" y2="250.000" stroke="#23527A"/>
+<line x1="133.000" y1="256.000" x2="129.000" y2="250.000" stroke="#23527A"/>
+<rect x="0.000" y="285.000" width="848.000" height="65.000" fill="#EEF4F5"/>
+<text x="12.000" y="313.000" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#18343d" text-anchor="start">6 · Итог: таблица 200 работ → статистика → отчёт и презентация</text>
+<text x="12.000" y="339.000" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#18343d" text-anchor="start">Доля журналов: 181/200 · среднее и медиана: n = 176 · доля Q1: 69/181</text>
+</svg>

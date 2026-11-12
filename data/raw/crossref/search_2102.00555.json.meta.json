@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works?query.bibliographic=Classical+worldvolumes+as+generalised+geodesics&rows=5",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:18.544914+00:00",
+  "sha256": "6c0874030ec6f84eedf0f0576badb69c030212fdfd11183f1b9d31baf4117c97",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:18 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "1",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-array",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}

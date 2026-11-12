@@ -1,0 +1,25 @@
+.venv/
+.deps/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/live/
+AGENTS.md
+.agents/
+.aws/
+.codex/
+.DS_Store
+
+# Local credentials, editor files and temporary exports
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.swp
+~$*.pptx
+.idea/
+.vscode/
+
+# Personal materials retained locally, excluded from submission
+/local_archive/

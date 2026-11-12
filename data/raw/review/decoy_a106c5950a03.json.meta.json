@@ -1,0 +1,17 @@
+{
+  "url": "https://inspirehep.net/api/literature?q=doi%3A10.1088%2F1361-6382%2Facd100&size=2&fields=titles%2Cauthors%2Cdois%2Carxiv_eprints%2Cpublication_info%2Cabstracts",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:38:48.737397+00:00",
+  "sha256": "0d90f19ccc3048b084523b05826161693ca4fcbaf848835312547bd6a885a2b9",
+  "headers": {
+    "server": "gunicorn/19.10.0",
+    "date": "Thu, 05 Nov 2026 20:38:48 GMT",
+    "content-type": "application/json",
+    "content-length": "4207",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset",
+    "x-proxy-backend": "inspire-prod_hep-web_http",
+    "alt-svc": "h3=\":443\";ma=60;",
+    "connection": "close"
+  }
+}

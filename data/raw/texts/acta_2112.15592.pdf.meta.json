@@ -1,0 +1,17 @@
+{
+  "url": "https://www.actaphys.uj.edu.pl/R/54/6-A2/pdf",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:34:15.165736+00:00",
+  "sha256": "3984ecd8c312eb8c5634afa3011f356f775fbdf2fea452dc7c831157dc3be1a9",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:34:14 GMT",
+    "Server": "Apache",
+    "Content-Location": "fulltext.php",
+    "Vary": "negotiate",
+    "TCN": "choice",
+    "Content-Disposition": "filename=v54-06-A002.pdf",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "application/pdf"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://api.crossref.org/works/10.1007%2FJHEP08%282022%29214",
+  "status": 200,
+  "retrieved_utc": "2026-11-05T20:27:06.786063+00:00",
+  "sha256": "765f2957497a53f4499d8feb181d23659a301ab11319c43ec0070c4dd8791664",
+  "headers": {
+    "Date": "Thu, 05 Nov 2026 20:27:06 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "access-control-expose-headers": "Link",
+    "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+    "access-control-allow-origin": "*",
+    "server": "Jetty(9.4.40.v20210413)",
+    "x-rate-limit-limit": "5",
+    "x-rate-limit-interval": "1s",
+    "x-concurrency-limit": "1",
+    "x-api-pool": "public-single",
+    "permissions-policy": "interest-cohort=()",
+    "strict-transport-security": "max-age=31536000;"
+  }
+}
