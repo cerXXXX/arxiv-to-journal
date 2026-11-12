@@ -518,5 +518,17 @@ def run(output=None):
 
 
 if __name__ == '__main__':
-    import sys
-    run(sys.argv[1] if len(sys.argv) > 1 else None)
+    import argparse
+    parser = argparse.ArgumentParser(description='Analyze a saved metadata snapshot.')
+    parser.add_argument('--data-root', type=Path, help='Snapshot root containing data/raw and snapshot.json')
+    parser.add_argument('--output', type=Path, help='Directory for generated results')
+    args = parser.parse_args()
+    if args.data_root:
+        ROOT = args.data_root.resolve()
+        snapshot = ROOT / 'snapshot.json'
+        if not (ROOT / 'data/raw').is_dir() or not snapshot.is_file():
+            parser.error('--data-root must be a completed snapshot with data/raw and snapshot.json')
+        CUTOFF = date.fromisoformat(json_read(snapshot)['cutoff'])
+        publisher_blocks.cache_clear()
+        referee_flags.cache_clear()
+    run(args.output or ROOT / 'results')

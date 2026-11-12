@@ -12,6 +12,7 @@ from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]/'src'))
 import pipeline as p
+import refresh as r
 
 
 class Matching(unittest.TestCase):
@@ -111,6 +112,12 @@ class Dates(unittest.TestCase):
             with patch.object(p,'publisher_blocks',return_value=[]):
                 date_parts,source=p.publication_date(article,{})
             self.assertEqual((date_parts,source),([2023],'crossref:published-online'))
+
+    def test_unavailable_acta_page_keeps_refresh_nonfatal(self):
+        with patch.object(r.collect,'acta_publication_date',side_effect=OSError('publisher unavailable')):
+            evidence,error=r.optional_acta_publication_date()
+        self.assertIsNone(evidence)
+        self.assertEqual(error,'publisher unavailable')
 
 
 class FrozenStudy(unittest.TestCase):

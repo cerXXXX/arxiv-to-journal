@@ -13,6 +13,14 @@ import pipeline
 SOURCE = Path(__file__).resolve().parents[1]
 
 
+def optional_acta_publication_date():
+    """Return verified publisher date, or an error for precision-aware fallback."""
+    try:
+        return collect.acta_publication_date(), None
+    except (OSError, KeyError, ValueError) as error:
+        return None, str(error)
+
+
 def refresh(destination):
     destination.mkdir(parents=True,exist_ok=True)
     (destination/'data/reference').mkdir(parents=True,exist_ok=True)
@@ -64,12 +72,14 @@ def refresh(destination):
             if doi and work.get('type') in ['article','review']:
                 extra.add(doi)
     collect.run_parallel(collect.crossref_one,sorted(extra))
-    direct_date = collect.acta_publication_date()
+    direct_date, direct_date_error = optional_acta_publication_date()
     pipeline.run(destination/'results')
     now=datetime.now(timezone.utc).isoformat()
     summary={'completed_utc':now,'cutoff':pipeline.CUTOFF.isoformat(),'sample_n':len(sample),
-             'searched_unmatched_n':len(unmatched),'direct_publisher_date_n':1,
-             'direct_publisher_date':direct_date['date'],
+             'searched_unmatched_n':len(unmatched),
+             'direct_publisher_date_n':int(direct_date is not None),
+             'direct_publisher_date':direct_date['date'] if direct_date else None,
+             'direct_publisher_date_error':direct_date_error,
              'status':'core_api_snapshot_complete','gold_validation':'Not transferred: the frozen gold is dated and snapshot-specific.'}
     pipeline.json_write(destination/'snapshot.json',summary)
     files=sorted(p for p in (destination/'data').rglob('*') if p.is_file())
@@ -81,5 +91,7 @@ if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--destination',type=Path,default=None,help='Resume/reuse this live snapshot directory')
     args=parser.parse_args()
-    destination=args.destination or SOURCE/'data/live'/datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+    destination=args.destination or SOURCE/'data/live'/datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S%fZ')
+    if not args.destination and destination.exists():
+        raise FileExistsError('Fresh snapshot destination already exists: ' + str(destination))
     refresh(destination.resolve())
